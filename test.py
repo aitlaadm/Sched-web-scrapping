@@ -91,7 +91,7 @@ for date, events_in_date_group in grouped_by_date:
         for event in events_in_salle_group:
             # Create a dictionary for each event
             event_dict = {
-                'heure': event['heure'],
+                'heure': event['heure'].replace(" ",""),
                 'titre': event['event'].replace("  ",""),
                 'tags': event['tags'],
                 'resume': event['resume'].replace("\n", "").replace("  ",""),

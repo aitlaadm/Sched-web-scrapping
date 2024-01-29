@@ -2,13 +2,13 @@
   salle_info:
     events:
     - event_type:   Organisation
-      heure: '09:00 '
-      resume: résumé introuvable
+      heure: 09:00
+      resume: Résumé Introuvable
       speaker: Speaker Introuvable
       tags: French
       titre: Le mot de l'accueil
     - event_type:   Hors-piste
-      heure: '09:15 '
+      heure: 09:15
       resume: GPS Précis au centimètre, coupure de sections, tracteurs connectés,
         data... Ces technologies ont un impact fort sur l'agriculture vis-à-vis des
         enjeux environnementaux et économiques actuels. Le monde agricole a connu
@@ -21,7 +21,7 @@
       titre: 'Mieux cultiver et mieux manger grâce au logiciel : la tech au service
         de l''agriculture'
     - event_type:   Language Architecture AI
-      heure: '10:10 '
+      heure: '10:10'
       resume: 'Les IA chez les devs, c''est comme le sexe chez les ados: tout le monde
         en parle, mais très peu ont finalement une réelle expérience du sujet. Dans
         ce talk, nous partagerons notre expérience du développement assisté à l''IA
@@ -40,7 +40,7 @@
       tags: French
       titre: 'Le développement augmenté à l''IA: tout ce qui va changer'
     - event_type:   Hors-piste
-      heure: '11:10 '
+      heure: '11:10'
       resume: Pros du web, vous êtes immunisés contre les darks patterns et les arnaques
         en ligne. On ne vous la fait pas, à vous. À nous non plus, d’ailleurs ! Et
         pourtant…En félicitant notre prof de gym pour son jogging, nous n’aurions
@@ -54,7 +54,7 @@
       titre: 'J’ai voulu m’acheter un jogging : quand une expérience sans couture
         dessert l’utilisateur'
     - event_type:   Hors-piste
-      heure: '12:10 '
+      heure: '12:10'
       resume: En France, les professions du numérique ne comptent actuellement que
         24 % de femmes, selon les données de l'Insee de 2023. En tant que femme qui
         a entrepris une reconversion professionnelle pour devenir développeuse fullstack
@@ -88,7 +88,7 @@
       titre: Dans le monde de la tech, on se demande souvent en chantant, 'Où sont
         les femmes ?'
     - event_type:   UX Frontend
-      heure: '14:00 '
+      heure: '14:00'
       resume: Le mot "réactivité" est omniprésent dès lors que l'on lise un article
         ou que l'on écoute un podcast sur un framework frontend.Mais qu'est-ce que
         ce terme signifie ? Plus concrètement encore, comment cette réactivité est
@@ -104,7 +104,7 @@
       titre: Plongeons au coeur des frameworks frontend modernes pour comprendre leur
         réactivité🔬⚛️
     - event_type:   Language Architecture AI
-      heure: '15:00 '
+      heure: '15:00'
       resume: Des utilisateurs qui ont toujours du mal à récupérer les informations
         dont ils ont besoin, alors que vous avez mis le paquet sur l'expérience utilisateur
         ? La frustration de voir qu'une fonctionnalité implémentée est rarement la
@@ -125,7 +125,7 @@
       tags: French
       titre: 'Loi de Conway : Lorsque les bonnes pratiques ne suffisent pas'
     - event_type:   Language Architecture AI
-      heure: '16:00 '
+      heure: '16:00'
       resume: Vous trouvez que ChatGTP est déconnecté de votre réalité métier ? Il
         est temps de changer la donne avec l’approche Retrieval-Augmented Generation
         (RAG) ! Explorons ensemble comment nous pouvons propulser vos données au cœur
@@ -141,8 +141,8 @@
       tags: French
       titre: 'Rock with RAG : Augmentons les Large Language Models'
     - event_type:   Organisation
-      heure: '16:50 '
-      resume: résumé introuvable
+      heure: '16:50'
+      resume: Résumé Introuvable
       speaker: Speaker Introuvable
       tags: French
       titre: Le mot de la fin
@@ -151,14 +151,14 @@
   salle_info:
     events:
     - event_type:   Organisation
-      heure: '08:00 '
-      resume: résumé introuvable
+      heure: 08:00
+      resume: Résumé Introuvable
       speaker: Speaker Introuvable
       tags: French
       titre: Welcome
     - event_type:   Organisation
-      heure: '12:30 '
-      resume: résumé introuvable
+      heure: '12:30'
+      resume: Résumé Introuvable
       speaker: Speaker Introuvable
       tags: French
       titre: Lunch
@@ -167,7 +167,7 @@
   salle_info:
     events:
     - event_type:   Hors-piste
-      heure: '10:10 '
+      heure: '10:10'
       resume: 'Un talk sur les pistes, sans écrans ni slides, cette contrainte est
         une superbe opportunité de se mettre dans la peau d''une personne malvoyante
         qui navigue sur un site internet.L''objectif de ce talk est de faire découvrir
@@ -184,7 +184,7 @@
       tags: French
       titre: Vous pouvez venir à ce talk les yeux fermés
     - event_type:   Cloud DevOps Sécurité
-      heure: '11:10 '
+      heure: '11:10'
       resume: 'Il faut en moyenne 212 jours pour détecter une faille de sécurité !
         Et au moins 50% des sites web contiennent une vulnérabilité critique. Vous
         en faites peut être partie !Bien souvent, les failles de sécurité sont comme
@@ -207,7 +207,7 @@
       titre: Arrêtez de cacher la sécurité de votre application à côté des monstres
         sous votre lit ?
     - event_type:   Hors-piste
-      heure: '12:10 '
+      heure: '12:10'
       resume: 'Je suis développeur en Entreprise de Service Numérique (ESN) depuis
         6 ans. Je suis sûr de moi et de mes compétences. Pour moi, le Domain-Driven
         Design (DDD) et l’architecture hexagonale ne sont que des buzzwords, un effet
@@ -230,7 +230,7 @@
       tags: French
       titre: Il n'est jamais trop tard pour redevenir junior
     - event_type:   Backend
-      heure: '14:00 '
+      heure: '14:00'
       resume: '# JAVA 21: What''s new ?### Java 21 has finally been released ! On
         the occasion of the release of this major and ambitious version, we will take
         a look at the new features of this language which celebrated its 27th anniversary.Java
@@ -246,7 +246,7 @@
       tags: French
       titre: 'JAVA 21: What''s new'
     - event_type:   UX Frontend
-      heure: '15:00 '
+      heure: '15:00'
       resume: Vous souhaitez offrir à vos utilisateurs une expérience de navigation
         web inoubliable ?Jusqu'à présent, lorsqu'une page web change, son contenu
         est purement et simplement remplacé par le nouveau, sans aucune animation.
@@ -265,7 +265,7 @@
       titre: Ajouter facilement des animations dans sa navigation Web avec la _Transition
         view API_ !
     - event_type:   Language Architecture AI
-      heure: '16:00 '
+      heure: '16:00'
       resume: '"L''architecture est vraiment importante. Les choses qui sont difficiles
         à changer sont l''architecture initiale, la culture et les compétences de
         l''équipe. C''est pourquoi il est important de bien faire les choses dès le
@@ -289,7 +289,7 @@
   salle_info:
     events:
     - event_type:   Backend
-      heure: '10:10 '
+      heure: '10:10'
       resume: 'Ecoconception, green It, informatique durable ou éco-TIC… les développeurs
         vont sauver la planète ! L''écoconception est couramment abordée sur des problématiques
         Front comme le poids des pages, mais que faire du côté du Back et en particulier
@@ -300,7 +300,7 @@
       tags: French
       titre: Green Java 🌿 ou comment appliquer l'écoconception à son code ☕
     - event_type:   Language Architecture AI
-      heure: '11:10 '
+      heure: '11:10'
       resume: C'est unanime, `PostgreSQL` devient le Linux de la base de données pour
         le bien de tous 🚀!Et cela parce que ce moteur de BDD contient des fonctionnalités
         fantastiques permettant de résoudre des problèmes complexes très simplement!Venez
@@ -314,7 +314,7 @@
       tags: French
       titre: SELECT 'amazing_features' FROM "posgresql"
     - event_type:   Hors-piste
-      heure: '12:10 '
+      heure: '12:10'
       resume: On aime tous prendre des raccourcis. Eh oui, personne n'aime passer
         des heures à faire une tâche rébarbative. Surtout quand on peut se contenter
         d'appuyer sur entrée, et laisser la magie des scripts opérer.Et en tant que
@@ -332,7 +332,7 @@
       tags: French
       titre: Filouter au quotidien à l'aide de petits scripts
     - event_type:   Cloud DevOps Sécurité
-      heure: '14:00 '
+      heure: '14:00'
       resume: 'Les attaques de chaîne de production et les failles dans les dépendances
         sont parmi les menaces les plus importantes dans les plates-formes Cloud,
         au travers de la mise en place de la conformité SOC2 (Service Organization
@@ -354,7 +354,7 @@
       titre: 'Mise en place et suivi de la sécurité grâce à l''instauration de la
         conformité SOC2: SAST, DAST, Penetration Testing'
     - event_type:   UX Frontend
-      heure: '15:00 '
+      heure: '15:00'
       resume: Après la création d'Angular Js et Angular, Miško Hevery décide de créer
         un troisième framework basé sur le concept de résumabilité. Ce framework,
         appelé **QWIK** a pour objectif de nous permettre de coder des applications
@@ -370,7 +370,7 @@
       tags: French
       titre: 'From Zero to Qwik: Building Your First App with Confidence'
     - event_type:   Hors-piste
-      heure: '16:00 '
+      heure: '16:00'
       resume: 'Illustration de la conférence : Présentation vidéo : https://www.youtube.com/watch?v=vQ5pa_EAh_MIl
         y a deux ans, j’étais développeuse C++, et j’ai fait le choix d’entamer une
         reconversion pour apprendre à dompter la Data et devenir Ingénieure Data.Pour
@@ -398,7 +398,7 @@
   salle_info:
     events:
     - event_type:   UX Frontend
-      heure: '10:10 '
+      heure: '10:10'
       resume: 'Le mot est apparu sur toutes les documentations ces derniers mois :
         les cloud providers comme Vercel, Netlify ou AWS proposent leur version des
         "Edge Functions", alors que les frameworks javascript comme Next, Nuxt ou
@@ -415,7 +415,7 @@
       tags: French
       titre: Le futur du web est sur la périphérie du réseau
     - event_type:   UX Frontend
-      heure: '11:10 '
+      heure: '11:10'
       resume: 'En pleine JS-jungle, Jasmine tente de se frayer un Chai-min sous une
         atmosphère Sélénium. Son but : la fameuse pyramide de tests. Soudain, plus
         un Jest, Sinon c''est le mauvais Karma ! Un Mocha venimeux lui barre la route...
@@ -431,7 +431,7 @@
       tags: French
       titre: Survivre dans la JS-jungle des outils de tests
     - event_type:   Hors-piste
-      heure: '12:10 '
+      heure: '12:10'
       resume: Quand l'on parle de notre $HOME sur Linux/MacOS, nous avons tous nos
         préférences, que cela soit notre éditeur de texte (le débat vim/emacs fait
         toujours rage), le prompt customisé, nos logiciels favoris... Et nous y tenons
@@ -447,7 +447,7 @@
       tags: French
       titre: Automatisez l'installation de votre poste de travail !
     - event_type:   Cloud DevOps Sécurité
-      heure: '14:00 '
+      heure: '14:00'
       resume: I am a big advocate of serverless products instead of "traditional"
         ones. Cloud Run instead of GKE, Fargate instead of EKS, Pub/Sub instead of
         Kafka and Aurora instead of RDS. You get lower costs, less infra to manage,
@@ -465,7 +465,7 @@
       tags: English
       titre: Go Serverless! But is it secure?
     - event_type:   Backend
-      heure: '15:00 '
+      heure: '15:00'
       resume: L’approval testing permet de mettre en place des tests pour du code
         sur lequel on n’a que très peu la main. Au travers de ce live-coding, guidés
         par le code coverage et en utilisant quelques refactoring très simples, nous
@@ -478,7 +478,7 @@
       tags: French
       titre: Tester du legacy grace à l'Approval testing
     - event_type:   Language Architecture AI
-      heure: '16:00 '
+      heure: '16:00'
       resume: 'Notre métier de développeur / concepteur / architecte consiste à construire
         des solutions logicielles répondant à des problèmes posés. Mais le faisons
         nous correctement? Nos solutions ne sont elles pas elle mêmes source de problèmes
@@ -508,13 +508,13 @@
   salle_info:
     events:
     - event_type:   Organisation
-      heure: '09:00 '
-      resume: résumé introuvable
+      heure: 09:00
+      resume: Résumé Introuvable
       speaker: Speaker Introuvable
       tags: French
       titre: Le mot de l'accueil
     - event_type:   Language Architecture AI
-      heure: '09:15 '
+      heure: 09:15
       resume: 'Saviez-vous que toute la journée, nos serveurs compressent nos réponses
         HTTP et que nos navigateurs les décompressent ? C''est un peu comme si nous
         jouions au Scrabble en permanence. Vous ne voyez pas le rapport, après notre
@@ -537,7 +537,7 @@
       tags: French
       titre: 'La compression Web : comment (re)prendre le contrôle ?'
     - event_type:   Cloud DevOps Sécurité
-      heure: '10:10 '
+      heure: '10:10'
       resume: Maintenant que votre équipe utilise GitOps avec succès, vous ne jurez
         plus que par kube et ArgoCD.Malheureusement, chaque succès peut devenir un
         problème... La direction veut maintenant que la voix du GitOps embrasse tous
@@ -558,7 +558,7 @@
       tags: French
       titre: Votre propre kube as a service ? Une aventure dont vous êtes le héros...
     - event_type:   Language Architecture AI
-      heure: '11:10 '
+      heure: '11:10'
       resume: Et si nous nous mettions à tracker nos pain-points comme on track des
         criminels?Et si notre historique git recelait plus d'informations sur notre
         architecture que nous ne le pensions?Et si toutes les traces qui y sont laissées
@@ -574,7 +574,7 @@
       tags: Tag introuvable
       titre: 'Code Case : les méthodes de la crim adaptées au code!'
     - event_type:   Language Architecture AI
-      heure: '12:10 '
+      heure: '12:10'
       resume: 'Les CLI (Command Line Interface), tout le monde les utilise et elles
         existent depuis la nuit des temps.Souvent synonyme de gain de productivité,
         leur création est parfois obscure et peut sembler complexe.C''était le cas
@@ -591,7 +591,7 @@
       tags: French
       titre: Picocli, mets du Java dans ton terminal !
     - event_type:   Language Architecture AI
-      heure: '14:00 '
+      heure: '14:00'
       resume: Selon les derniers rapports sur les technologies émergentes, les architectures
         composables sont pré-senties comme étant “le futur des architectures logicielles”.Opposé
         à l’architecture monolithique et repoussant les limites de l’architecture
@@ -609,7 +609,7 @@
       titre: Au delà des architectures micro-services, découvrez les architectures
         composables !
     - event_type:   Language Architecture AI
-      heure: '15:00 '
+      heure: '15:00'
       resume: 'Le Prompt Engineering a été le buzz word de l’année 2023 ! Mais savez-vous
         vraiment ce que l’anglicisme “prompter” signifie ? Le concept du Prompt Engineering
         consiste à formuler des instructions spécifiques et claires pour guider le
@@ -631,7 +631,7 @@
       titre: Le Prompt Engineering pour les nuls, où comment utiliser plus efficacement
         la puissance des LLMs !
     - event_type:   UX Frontend
-      heure: '16:00 '
+      heure: '16:00'
       resume: 'On ne va pas se mentir: quand on a commencé notre aventure dans le
         développement web il y a 15 ans, le CSS et nous, ce n''était pas vraiment
         le grand amour. Malgré l''arrivée des variables et des nouveaux systèmes de
@@ -655,20 +655,20 @@
   salle_info:
     events:
     - event_type:   Organisation
-      heure: '08:00 '
-      resume: résumé introuvable
+      heure: 08:00
+      resume: Résumé Introuvable
       speaker: Speaker Introuvable
       tags: French
       titre: Welcome
     - event_type:   Organisation
-      heure: '12:30 '
-      resume: résumé introuvable
+      heure: '12:30'
+      resume: Résumé Introuvable
       speaker: Speaker Introuvable
       tags: French
       titre: Lunch
     - event_type:   Organisation
-      heure: '16:50 '
-      resume: résumé introuvable
+      heure: '16:50'
+      resume: Résumé Introuvable
       speaker: Speaker Introuvable
       tags: French
       titre: Meet&Greet
@@ -677,7 +677,7 @@
   salle_info:
     events:
     - event_type:   Language Architecture AI
-      heure: '10:10 '
+      heure: '10:10'
       resume: '- "Arf, ma page est cachable pendant deux mois mais il faut que je
         mette le nom de l''utilisateur. Bon je vais faire un chargement en AJAX."-
         "NON mon cher ! Utilise les ESI et ARRÊTE de mettre du JS partout !"Généralement,
@@ -693,7 +693,7 @@
       tags: French
       titre: 'ESI : le cache HTTP en petits bouts'
     - event_type:   Cloud DevOps Sécurité
-      heure: '11:10 '
+      heure: '11:10'
       resume: 'Depuis un peu plus de 2 ans, nous intervenons principalement sur le
         déploiement d''applications dites cloud native d''une ETI, sur3 domaines :-Gestion
         de la forge logicielle, essentiellement composée de logiciels libres-Déploiement
@@ -711,7 +711,7 @@
       titre: 2 ans de migrations en environnement "cloud native" quand on n'est ni
         une startup, ni dans le CAC40
     - event_type:   UX Frontend
-      heure: '12:10 '
+      heure: '12:10'
       resume: Imaginez un monde sans couleur. Un monde où nos applications seraient
         monotones, dépourvues de vie et d'expression. La couleur joue un rôle essentiel
         dans notre expérience numérique, captivant notre attention, influençant nos
@@ -731,7 +731,7 @@
       tags: French
       titre: De la couleurs dans nos Apps
     - event_type:   Backend
-      heure: '14:00 '
+      heure: '14:00'
       resume: Les sommets blanchissent, vous avez réservé votre séjour aux sports
         d'hiver et vous vous apprêtez à prendre la route. Vous allez parcourir de
         nombreux ouvrages dont des tunnels.En 1999, le tunnel du Mont Blanc s'embrasait
@@ -757,7 +757,7 @@
       tags: French
       titre: Partez au ski en toute sécurité
     - event_type:   Cloud DevOps Sécurité
-      heure: '15:00 '
+      heure: '15:00'
       resume: 'Tracking a request’s flow across different components in distributed
         systems is essential. With the rise of microservices, their importance has
         risen to critical levels. Some proprietary tools for tracking have been used
@@ -771,7 +771,7 @@
       tags: English
       titre: Practical introduction to OpenTelemetry tracing
     - event_type:   Hors-piste
-      heure: '16:00 '
+      heure: '16:00'
       resume: 'Le contenu de votre documentation est éparpillé à travers plusieurs
         systèmes, et l''assembler vous donne l''impression de résoudre un casse-tête
         géant ?Vous vous sentez enlisé dans les extensions du parser Markdown ou limité
@@ -797,7 +797,7 @@
   salle_info:
     events:
     - event_type:   Cloud DevOps Sécurité
-      heure: '10:10 '
+      heure: '10:10'
       resume: '**Format** : Talk - Retour d''expérience**Category** : DevOps## Qui
         est l''audience ?Cette présentation s''adresse aux DevOps/Ops/Cloud engineer
         et de manière générale aux adorateurs du Chaos. J''ai déjà pu tester cette
@@ -904,7 +904,7 @@
       tags: French
       titre: 'Chaos Engineering: REX d''un DevOps ambitieux'
     - event_type:   Hors-piste
-      heure: '11:10 '
+      heure: '11:10'
       resume: Vous aussi vous avez l’impression que les POC que vous développez ne
         servent à rien ? Qui n’a jamais connu les fameux “POC en prod” ? Dans ce talk
         je partagerais mon expérience en tant que développeuse au sein d’une équipe
@@ -918,7 +918,7 @@
       tags: French
       titre: 'Du Flop au Top : Comment améliorer vos POC ?'
     - event_type:   Hors-piste
-      heure: '12:10 '
+      heure: '12:10'
       resume: 'Où vous voyez-vous dans 5 ans ?La question trop banale ou intimidante
         que j’espère démystifier pendant ce talk.Un partage d''experience, avec ce
         que j''ai appris au cours des années et (surtout) depuis que j''ai changé
@@ -932,7 +932,7 @@
       tags: French
       titre: 'Bootez votre carrière : senior engineer ou manager ?'
     - event_type:   Cloud DevOps Sécurité
-      heure: '14:00 '
+      heure: '14:00'
       resume: Aujourd’hui, le cloud permet d’améliorer la disponibilité et l’évolutivité
         de nos applications. Grâce au cloud, nous pouvons provisionner de nouvelles
         infrastructures rapidement et faire évoluer avec la même vitesse les infrastructures
@@ -947,7 +947,7 @@
       tags: French
       titre: 📝 ✅ La checklist ultime pour rendre vos applications cloud native !
     - event_type:   Backend
-      heure: '15:00 '
+      heure: '15:00'
       resume: OpenID et OAuth2 sont les protocoles d'authentication et d'authorization
         web les plus répandus. Ce sont des protocoles compliqués, difficile à appréhender
         pour les novices, avec plein de concepts qui se mélangent. Souvent expliqué,
@@ -962,7 +962,7 @@
       tags: French
       titre: 'OAuth2, OpenID: le SSO en live-coding et sans framework'
     - event_type:   Cloud DevOps Sécurité
-      heure: '16:00 '
+      heure: '16:00'
       resume: Le modèle de license de logiciel de Docker peut freiner son adoption
         dans les entreprises. Connaissez vous Podman, une alternative libre à Docker
         ? Podman implémente l'API REST de docker donc on peut facilement remplacer
@@ -984,7 +984,7 @@
   salle_info:
     events:
     - event_type:   Backend
-      heure: '10:10 '
+      heure: '10:10'
       resume: Quarkus n'est maintenant plus un nouveau venu dans l'écosystème java,
         et de plus en plus de projets l'adoptent comme base de travail,mais peu de
         développeurs comprennent vraiment à quel point la magie se cache dans ses
@@ -1001,7 +1001,7 @@
       tags: French
       titre: 'Quarkus : Greener, Better, Faster, stronger.'
     - event_type:   UX Frontend
-      heure: '11:10 '
+      heure: '11:10'
       resume: 'Derrière ce titre « clickbait » se cache une vraie méthode basée sur
         une checklist du W3C.Elle permet de tester soit même l’accessibilité d’un
         site en **10 tests simple, même sans avoir un profil technique**.Cette méthode
@@ -1017,7 +1017,7 @@
       tags: French
       titre: 10 tests simples pour améliorer l'accessibilité de votre site
     - event_type:   Hors-piste
-      heure: '12:10 '
+      heure: '12:10'
       resume: 'Nous sommes en train de vivre une nouvelle révolution, nous sommes
         entrés dans “l''ère de l’IA générative”. Êtes-vous prêt à embarquer pour un
         court voyage à travers les concepts des algorithmes génératifs et les dessous
@@ -1047,7 +1047,7 @@
       tags: French
       titre: 'L’Art Génératif Dévoilé : Plongez dans l’univers créatif de l’IA'
     - event_type:   Cloud DevOps Sécurité
-      heure: '14:00 '
+      heure: '14:00'
       resume: 'Comment accélérer sa CI/CD ? Il y a deux ans, nous vous aurions proposé
         de mettre beaucoup de cache et de paralléliser au maximum. Puis nous avons
         pu analyser une vingtaine de CI différentes et nous nous sommes rendus compte
@@ -1062,7 +1062,7 @@
       tags: French
       titre: Devenez des orfèvres de la CI
     - event_type:   Hors-piste
-      heure: '15:00 '
+      heure: '15:00'
       resume: Vous en avez marre de vous sentir traqué sur Internet ? 😒 Nous aussi
         ! Mais est-il réellement possible de nos jours de devenir un véritable ninja
         digital ? 🥷🏻 Et si pour protéger votre vie privée en ligne, il fallait tout
@@ -1078,7 +1078,7 @@
       tags: French
       titre: STOP à l’espionnage ! Comment disparaître d’internet ? 🕵🏼‍♂️
     - event_type:   Cloud DevOps Sécurité
-      heure: '16:00 '
+      heure: '16:00'
       resume: Le Cloud, tout le monde en parle, mais maîtrisez-vous vraiment ses coûts
         cachés ? Les alternatives structurelles que celà peut impliquer ?Après une
         introduction au cloud, dont les exemples seront issus d'AWS et un parallèle
@@ -1100,7 +1100,7 @@
   salle_info:
     events:
     - event_type:   Backend
-      heure: '09:30 '
+      heure: 09:30
       resume: 'Vous avez besoin de construire un monolithe modulaire et de vous assurer
         qu’au bout de plusieurs années la modularité soit encore en place?Avec de
         la programmation événementielle?Pour lequel la sortie d’une brique en micro
@@ -1114,7 +1114,7 @@
       tags: French
       titre: Venez construire un monolithe spring modulaire!
     - event_type:   Language Architecture AI
-      heure: '14:00 '
+      heure: '14:00'
       resume: 'Vous avez déjà entendu parlé de Docker Compose ? Peut être l''utilisez
         vous déjà un peu ? Nous vous proposons de découvrir toutes les facettes de
         cet outil en construisant une application ensemble, de manière itérative et
@@ -1129,8 +1129,8 @@
   salle_info:
     events:
     - event_type:   Organisation
-      heure: '12:30 '
-      resume: résumé introuvable
+      heure: '12:30'
+      resume: Résumé Introuvable
       speaker: Speaker Introuvable
       tags: French
       titre: Lunch
@@ -1139,8 +1139,8 @@
   salle_info:
     events:
     - event_type:   Organisation
-      heure: '09:00 '
-      resume: résumé introuvable
+      heure: 09:00
+      resume: Résumé Introuvable
       speaker: Speaker Introuvable
       tags: French
       titre: Welcome
@@ -1149,7 +1149,7 @@
   salle_info:
     events:
     - event_type:   Backend
-      heure: '09:30 '
+      heure: 09:30
       resume: 'Bienvenue à bord du grand voyage, destination : l''univers du backend
         open-source ! Êtes vous prêts pour cette aventure au cœur d''Appwrite, la
         solution qui défie le géant déjà bien connu Firebase ? 🛫Au cours de cette
@@ -1165,7 +1165,7 @@
       titre: 'Voyage au coeur d''Appwrite : le backend open-source qui challenge Firebase
         🧳'
     - event_type:   Cloud DevOps Sécurité
-      heure: '14:00 '
+      heure: '14:00'
       resume: Dans ce workshop, nous verrons comment créer et déployer un Instamgram-like
         en 3 heures grâce à Amplify.Nous verrons comment gérnérer les composants React
         à partir de designs Figma. Puis, comment designer et ajouter simplmement une
@@ -1179,7 +1179,7 @@
   salle_info:
     events:
     - event_type:   Cloud DevOps Sécurité
-      heure: '09:30 '
+      heure: 09:30
       resume: 'On a tous besoin de déployer des environnements de dev, de test à la
         demande avec les contraintes que cela comporte (automatisation des mises à
         jour, sécurité, accès pour les utilisateurs, optimisation des coûts...)Dans
@@ -1203,7 +1203,7 @@
       titre: 🍳 Recette pour des environnements aux petits oignons pour ton déploiement
         continu 🚀
     - event_type:   Language Architecture AI
-      heure: '14:00 '
+      heure: '14:00'
       resume: 'WebAssembly (ou Wasm, son petit nom) était initialement prévu pour
         s''exécuter dans le navigateur. Grâce à ses qualités (polyglotte, efficacité,
         rapidité, ...) , très vite il est apparu indispensable de pouvoir exécuter
@@ -1237,7 +1237,7 @@
   salle_info:
     events:
     - event_type:   Cloud DevOps Sécurité
-      heure: '09:30 '
+      heure: 09:30
       resume: 'Venez avec votre PC/Linux/MAC, vous connaissez probablement les Linux
         [Install Parties](https://fr.wikipedia.org/wiki/Install_party) ? Alors, faisons
         de même avec la Sécurité, nous allons suivre l''approche [DevSecOps](https://davidaparicio.gitlab.io/website/files/devsecops_software_lifecycle.jpg)
@@ -1257,7 +1257,7 @@
       tags: French
       titre: La sécurité, par où commencer ? Install party 🎉
     - event_type:   Cloud DevOps Sécurité
-      heure: '14:00 '
+      heure: '14:00'
       resume: 'Are you ready to become a hacker and try to exploit vulnerabilities
         in the Cloud?Then join us for our exciting Capture the Flag workshop where
         you’ll learn about the dangers of AWS environments configurations pitfalls
@@ -1279,7 +1279,7 @@
   salle_info:
     events:
     - event_type:   Language Architecture AI
-      heure: '09:30 '
+      heure: 09:30
       resume: 'Les technologies d''IA, et particulièrement les grand modèles de langages
         (LLM) poussent un peu partout comme des champignons ces derniers temps. Comment
         ces modèles fonctionnent-ils, et comment s''en servir dans vos applications?Dans
@@ -1307,7 +1307,7 @@
       titre: 'Comprendre l''IA: construisez votre propre ChatGPT sécurisé avec Node.js
         et LangChain'
     - event_type:   Language Architecture AI
-      heure: '14:00 '
+      heure: '14:00'
       resume: L'IA est partout, du moins tout le monde revendique d'avoir de l'IA
         dans ses applications, ses objets connectés, ...En parler c'est bien, la développer
         c'est encore mieux.Après une introduction aux concepts qui gravitent autour
