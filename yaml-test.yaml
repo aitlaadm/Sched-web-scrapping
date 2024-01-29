@@ -1,0 +1,1155 @@
+- Friday February  2:
+    Auditorium: {}
+- Friday February  2:
+    Auditorium:
+    - '09:00  | Titre :   Le mot de l''accueil | Tags : French | Resumé :résumé introuvable
+      | Speaker :Speaker Introuvable'
+- Friday February  2:
+    Auditorium:
+    - '09:15  | Titre :   Mieux cultiver et mieux manger grâce au logiciel : la tech
+      au service de l''agriculture | Tags : French | Resumé :  GPS Précis au centimètre,
+      coupure de sections, tracteurs connectés, data... Ces technologies ont un impact
+      fort sur l''agriculture vis-à-vis des enjeux environnementaux et économiques
+      actuels. Le monde agricole a connu une révolution technologique très forte au
+      cours des deux dernières décennies. Sortons de nos open spaces et autres laboratoires,
+      enfilons une paire de bottes et allons avec Bertrand dans ses champs comprendre
+      pourquoi et comment il les utilise dans son métier.**Un duo agriculteur/dev**
+      | Speaker :Mathieu Passenaud'
+- Friday February  2:
+    Auditorium:
+    - '10:10  | Titre :   Le développement augmenté à l''IA: tout ce qui va changer
+      | Tags : French | Resumé :  Les IA chez les devs, c''est comme le sexe chez
+      les ados: tout le monde en parle, mais très peu ont finalement une réelle expérience
+      du sujet. Dans ce talk, nous partagerons notre expérience du développement assisté
+      à l''IA que nous pratiquons depuis les premières versions beta de ces modèles:
+      ce que nous en avons appris, les trucs et astuces, leur limites... Mais ce sera
+      aussi l''occasion de debunker certaines contre-vérités que l''on peut entendre
+      à gauche et à droite.En poussant un peu plus, on découvrira également que les
+      bénéfices dépassent le simple fait de générer du code. Ces IA peuvent servir
+      d''outil de feedback, améliorer la qualité, la sécurité et l''accessibilité
+      de nos projets, automatiser des tâches et pourraient même changer complètement
+      l''expérience du recrutement. Qu''on l''accepte ou non, l''IA a *déjà* commencé
+      à changer notre métier.Entrez dans le quotidien d''un dev du futur, et découvrez
+      ce qui ce cache réellement derrière les sirènes du marketing et des histoires
+      miraculeuses entendues au café! | Speaker :Yohan Lasorsa'
+- Friday February  2:
+    Auditorium:
+    - '11:10  | Titre :   J’ai voulu m’acheter un jogging : quand une expérience sans
+      couture dessert l’utilisateur | Tags : French | Resumé :  Pros du web, vous
+      êtes immunisés contre les darks patterns et les arnaques en ligne. On ne vous
+      la fait pas, à vous. À nous non plus, d’ailleurs ! Et pourtant…En félicitant
+      notre prof de gym pour son jogging, nous n’aurions jamais pensé tomber dans
+      les méandres d’un site d’articles de sport aux pratiques manipulatrices. Joggings,
+      RGPD et dark patterns, tout ça dans un même talk ? Si si, c’est possible !Embarquez
+      avec nous pour une analyse de ce parcours trop parfait qui, sans que vous vous
+      en rendiez compte, vous allègera de vos mensurations, votre consentement et
+      de quelques centaines d''euros. | Speaker :Julie Francois-Franco'
+- Friday February  2:
+    Auditorium:
+    - '12:10  | Titre :   Dans le monde de la tech, on se demande souvent en chantant,
+      ''Où sont les femmes ?'' | Tags : French | Resumé :  En France, les professions
+      du numérique ne comptent actuellement que 24 % de femmes, selon les données
+      de l''Insee de 2023. En tant que femme qui a entrepris une reconversion professionnelle
+      pour devenir développeuse fullstack il y a trois ans, je suis enthousiaste à
+      l''idée de partager mon parcours atypique, les défis que j''ai relevés, mais
+      surtout les éléments fondamentaux qui m''ont permis de m''épanouir au sein de
+      mon entreprise.En effet, l''équilibre des genres ne dépend pas seulement de
+      l''attraction des femmes, mais aussi de leur rétention. Chacun d''entre nous
+      joue un rôle essentiel dans ce processus. Dans le cadre de ma propre expérience
+      au sein d''une grande entreprise tech (CRITEO), je mettrai en lumière les avantages
+      indéniables de la diversité et les leviers d''action qui peuvent la préserver.Au-delà
+      des statistiques, mon exposé sera une exploration personnelle des réalités et
+      des opportunités qui découlent de la diversité dans le monde de la tech. Ensemble,
+      nous découvrirons comment nous pouvons tous contribuer à bâtir un avenir où
+      l''inclusion et l''équité seront au cœur de nos entreprises technologiques.In
+      France, the digital professions currently consist of only 24% women, according
+      to data from Insee in 2023. As a woman who embarked on a career change to become
+      a full-stack developer three years ago, I am excited to share my unconventional
+      journey, the challenges I''ve faced, but most importantly, the fundamental factors
+      that have allowed me to thrive within my company. Indeed, gender balance depends
+      not only on attracting women but also on retaining them. Each one of us plays
+      an essential role in this process. Drawing from my own experience within a large
+      tech company (CRITEO), I will shed light on the undeniable benefits of diversity
+      and the actionable strategies to preserve it. Beyond the statistics, my presentation
+      will be a personal exploration of the realities and opportunities stemming from
+      diversity in the tech world. Together, we will discover how we can all contribute
+      to building a future where inclusion and equity lie at the heart of our tech
+      companies. | Speaker :Estelle Thou'
+- Friday February  2:
+    Auditorium:
+    - '14:00  | Titre :   Plongeons au coeur des frameworks frontend modernes pour
+      comprendre leur réactivité🔬⚛️ | Tags : French | Resumé :  Le mot "réactivité"
+      est omniprésent dès lors que l''on lise un article ou que l''on écoute un podcast
+      sur un framework frontend.Mais qu''est-ce que ce terme signifie ? Plus concrètement
+      encore, comment cette réactivité est traduite en code au sein de nos frameworks
+      préférés ?Je vous propose de pratiquer une opération à coeur ouvert de Vue,
+      React, Svelte et Angular afin de comprendre leurs mécanismes internes de "rafraîchissement"
+      du DOM. Nous nous attarderons d''avantage sur ce dernier qui est en train de
+      complètement changer sa logique réactive. Le but de ce focus est de vous présenter
+      les challenges auxquels la core team fait actuellement face et surtout le futur
+      proche d''Angular.Alors si vous voulez être réactif, suivez le guide ! ;-) |
+      Speaker :Sylvain Dedieu'
+- Friday February  2:
+    Auditorium:
+    - '15:00  | Titre :   Loi de Conway : Lorsque les bonnes pratiques ne suffisent
+      pas | Tags : French | Resumé :  Des utilisateurs qui ont toujours du mal à récupérer
+      les informations dont ils ont besoin, alors que vous avez mis le paquet sur
+      l''expérience utilisateur ? La frustration de voir qu''une fonctionnalité implémentée
+      est rarement la solution fonctionnelle idéale que vous aviez défini, car il
+      y a toujours un "mais" ? Ou plus techniquement, avez-vous des APIs découpées
+      d''une manière qui semble au final arbitraire et qui ne suit pas le métier ?La
+      sensation que votre organisation est orthogonale à vos objectifs ? N''avez-vous
+      jamais remarqué, que bien que vous soyez agile et vous suivez les bonnes pratiques,
+      le logiciel qu''on construit s''écarte souvent de la vision produit, technique
+      et parfois même des besoins de l''utilisateur que l''on a pourtant passé du
+      temps à récolter ?Et si on vous disait que tout cela est lié, et qu''il existe
+      une force qui a une influence certaine sur votre produit, votre expérience utilisateur
+      et votre architecture ? Lors de ce talk venez découvrir la Loi de Conway, cette
+      force méconnue qui a un pouvoir magique sur ce que vous construisez quel que
+      soit votre métier. Nous verrons ses impacts sur les différents aspects du logiciel
+      et nous apprendrons comment l''apprivoiser. | Speaker :Julien Topçu'
+- Friday February  2:
+    Auditorium:
+    - '16:00  | Titre :   Rock with RAG : Augmentons les Large Language Models | Tags
+      : French | Resumé :  Vous trouvez que ChatGTP est déconnecté de votre réalité
+      métier ? Il est temps de changer la donne avec l’approche Retrieval-Augmented
+      Generation (RAG) ! Explorons ensemble comment nous pouvons propulser vos données
+      au cœur du modèle. Une virée excitante dans les fondamentaux du RAG, une mise
+      en œuvre illustrée, des défis comme les hallucinations et réponses incomplètes...
+      et bien sûr, la stratégie gagnante pour contrer tout cela. Nous ferons une introduction
+      rapide sur les LLMs et nous détaillerons la technique RAG au travers d’une démonstration.
+      Nous implémenterons ensemble un chatbot qui répond à vos questions sur les talks
+      de Snowcamp 2024. Nous utiliserons OpenAI au travers de bibliothèques comme
+      Langchain et Chainlit. Préparez-vous à déchaîner un véritable concert de possibilités
+      avec l''augmentation des Large Language Models. | Speaker :Loïc Gudet'
+- Friday February  2:
+    Auditorium:
+    - '16:50  | Titre :   Le mot de la fin | Tags : French | Resumé :résumé introuvable
+      | Speaker :Speaker Introuvable'
+- Friday February  2:
+    Hall des Sponsors: {}
+- Friday February  2:
+    Hall des Sponsors:
+    - '08:00  | Titre :   Welcome | Tags : French | Resumé :résumé introuvable | Speaker
+      :Speaker Introuvable'
+- Friday February  2:
+    Hall des Sponsors:
+    - '12:30  | Titre :   Lunch | Tags : French | Resumé :résumé introuvable | Speaker
+      :Speaker Introuvable'
+- Friday February  2:
+    Kilimanjaro: {}
+- Friday February  2:
+    Kilimanjaro:
+    - '10:10  | Titre :   Vous pouvez venir à ce talk les yeux fermés | Tags : French
+      | Resumé :  Un talk sur les pistes, sans écrans ni slides, cette contrainte
+      est une superbe opportunité de se mettre dans la peau d''une personne malvoyante
+      qui navigue sur un site internet.L''objectif de ce talk est de faire découvrir
+      la navigation sur les sites internet à l''aide d''un lecteur d''écran.Comment
+      ça marche, comment "voit-on" un site sans le voir ?Quels sont les problèmes
+      rencontrés par les utilisateurs de lecteurs d''écrans et surtout, comment faciliter
+      cette navigation et éviter de faire un site inutilisable pour certains.Durant
+      ce talk, on écouteras des sites web, on parlera de sémantique, d''accès rapide,
+      de landmarks, d''alternatives aux images, de tableaux, d''Aria, de formulaires,
+      de liens et de boutons (spoiler : un div n''est pas un bouton).On parlera aussi
+      un peu de SEO : l''aveugle le plus célèbre au monde n''est il pas Google ?Un
+      talk a écouter les yeux fermés. | Speaker :François-Xavier Lair'
+- Friday February  2:
+    Kilimanjaro:
+    - '11:10  | Titre :   Arrêtez de cacher la sécurité de votre application à côté
+      des monstres sous votre lit ? | Tags : French | Resumé :  Il faut en moyenne
+      212 jours pour détecter une faille de sécurité ! Et au moins 50% des sites web
+      contiennent une vulnérabilité critique. Vous en faites peut être partie !Bien
+      souvent, les failles de sécurité sont comme le monstre qui se cachaient sous
+      notre lit étant enfant. Nous en avons peur sans oser les regarder en face. Un
+      petit test d’intrusion nous rassure pour quelque temps comme les parents nous
+      assurant qu’il n’y a rien. Mais ont-ils bien regardé ? Et les quelques monstres
+      qu’ils ont chassés, sommes nous sûrs qu’ils ne reviendront pas demain ?Mon but
+      est de démystifier les failles de sécurité en les considérant comme des défauts
+      dont il faut fixer la cause profonde. Comme un testeur QA (Quality Assurance),
+      l’expert cybersécurité vient vérifier au quotidien l’introduction de failles.
+      Il aide à comprendre la cause de la faille et à mettre en place des moyens de
+      protection en amont grâce à un outil Lean: le QRQC.En sortant de ce talk, vous
+      aurez une méthode pour détecter et éradiquer les vulnérabilités sur vos projets
+      grâce à trois axes:- Avoir moins peur d’aller voir vos failles de sécurité-
+      Comprendre les différentes missions de l’expert cybersécurité- Utiliser un outil
+      Lean pour mieux analyser vos failles et mettre en place des contre-mesures durables
+      | Speaker :Marine du Mesnil'
+- Friday February  2:
+    Kilimanjaro:
+    - '12:10  | Titre :   Il n''est jamais trop tard pour redevenir junior | Tags
+      : French | Resumé :  Je suis développeur en Entreprise de Service Numérique
+      (ESN) depuis 6 ans. Je suis sûr de moi et de mes compétences. Pour moi, le Domain-Driven
+      Design (DDD) et l’architecture hexagonale ne sont que des buzzwords, un effet
+      de mode que mes amis junior développeur.euse.s utilisent. On me demande en entretien
+      de justifier l’intérêt de découpler l’infrastructure du code métier et si je
+      pratique le Test-Driven Development (TDD). Je me fais ramasser, c’est la première
+      fois que ça m’arrive. Je suis complètement perdu et découvre un nouvel océan
+      de bonnes pratiques : le Software craftsmanship. Comment se relever après une
+      expérience comme celle-ci ? Comment sortir de sa zone de confort pour réinventer
+      sa façon de travailler ? Comment mettre l''égo de côté pour apprendre de développeur.euse.s
+      plus jeunes et/ou avec moins d''années d''expérience que nous ? Il n''est jamais
+      trop tard pour repartir de zéro ! À travers mon expérience, je vais vous donner
+      les étapes simples qui m’ont permis de changer mes pratiques rapidement : comment
+      j’ai utilisé une méthode d''amélioration continue pour facilement mettre en
+      place et suivre l’évolution de mes pratiques, comment trier et sélectionner
+      des ressources efficacement, comment se mettre dans une position pour apprendre
+      de tout le monde, comment valoriser l’expérience précédemment accumulée. | Speaker
+      :Yann Bouvet'
+- Friday February  2:
+    Kilimanjaro:
+    - '14:00  | Titre :   JAVA 21: What''s new | Tags : French | Resumé :  # JAVA
+      21: What''s new ?### Java 21 has finally been released ! On the occasion of
+      the release of this major and ambitious version, we will take a look at the
+      new features of this language which celebrated its 27th anniversary.Java 21
+      introduces in preview or final form many developments and this presentation
+      is a opportunity to discuss many of them. We present the **latest developments
+      of the Amber** project which make it possible to simplify and streamline developments.
+      **We will present, code and IDE in support** ;-), for example, the new native
+      templating system for Strings, the integration of record patterns and logical
+      expressions in switches. We will also talk about the **Loom project** whose
+      news Features extend the boundaries of the JVM with virtual threads and simplify
+      the implementation of parallelized functions with new paradigms | Speaker :Vincent
+      LINAS'
+- Friday February  2:
+    Kilimanjaro:
+    - '15:00  | Titre :   Ajouter facilement des animations dans sa navigation Web
+      avec la _Transition view API_ ! | Tags : French | Resumé :  Vous souhaitez offrir
+      à vos utilisateurs une expérience de navigation web inoubliable ?Jusqu''à présent,
+      lorsqu''une page web change, son contenu est purement et simplement remplacé
+      par le nouveau, sans aucune animation. La seule alternative consistait à recréer
+      manuellement ces animations, ce qui était extrêmement complexe, décourageant
+      les personnes les plus motivées, et très souvent au détriment de l''accessibilité
+      et de l''historique de navigation...Cependant, cette époque est révolue depuis
+      Chromium 111, grâce à la _Transition view API_, permettant de lier deux pages
+      web en animant les éléments communs entre elles.De l''intérêt pour vos utilisateurs,
+      au fonctionnement technique, en passant par la mise en place et la personnalisation
+      des animations, sans oublier les limitations... Venez découvrir, démonstrations
+      à l''appui, comment la _View Transitions API_ peut améliorer l''expérience de
+      navigation de vos utilisateurs ! | Speaker :Alexandre CANTIN'
+- Friday February  2:
+    Kilimanjaro:
+    - '16:00  | Titre :   Adoptez la clean archigonale | Tags : French | Resumé :  "L''architecture
+      est vraiment importante. Les choses qui sont difficiles à changer sont l''architecture
+      initiale, la culture et les compétences de l''équipe. C''est pourquoi il est
+      important de bien faire les choses dès le départ." - Martin FowlerAprès une
+      période de balbutiement où nous codions comme nous pouvions, nous avons cru,
+      après les années 2000, avoir trouvé l''architecture idéale : un découpage en
+      couches, où chacune aurait une responsabilité dédiée.Idée séduisante sur le
+      papier, mise en oeuvre efficace... au départ.Des années après, tout un tas de
+      problèmes a fait surface lors de la maintenance et de l''évolutivité du logiciel,
+      surtout avec l''abondance et le cycle de vie des frameworks.Afin de pallier
+      ces problèmes, des architectures ont émergé, dont l’architecture Hexagonale
+      et la Clean architecture.- Mais qu''apportent-elles réellement ?- Que veut dire
+      "clean/propre" au sujet d''une architecture ?- Quelles sont leurs périmètres
+      d''action ?- Est-ce juste du marketing ou une véritable plus-value ?- Sont-elles
+      équivalentes avec un nommage différent ?- Enfin... sont-elles la réponse unique
+      à tous les problèmes ? | Speaker :Christophe Breheret-Girardin'
+- Friday February  2:
+    Makalu: {}
+- Friday February  2:
+    Makalu:
+    - '10:10  | Titre :   Green Java 🌿 ou comment appliquer l''écoconception à son
+      code ☕ | Tags : French | Resumé :  Ecoconception, green It, informatique durable
+      ou éco-TIC… les développeurs vont sauver la planète ! L''écoconception est couramment
+      abordée sur des problématiques Front comme le poids des pages, mais que faire
+      du côté du Back et en particulier Java ?Regardons ensemble quelles sont les
+      green patterns à adopter pour passer notre code au vert : frugalité technique,
+      limitation de la bande passante, minimisation de la consommation des ressources,
+      empreinte mémoire… | Speaker :Sandrine Banas'
+- Friday February  2:
+    Makalu:
+    - '11:10  | Titre :   SELECT ''amazing_features'' FROM "posgresql" | Tags : French
+      | Resumé :  C''est unanime, `PostgreSQL` devient le Linux de la base de données
+      pour le bien de tous 🚀!Et cela parce que ce moteur de BDD contient des fonctionnalités
+      fantastiques permettant de résoudre des problèmes complexes très simplement!Venez
+      découvrir dans cette présentation les features les plus utiles et pratiques
+      pour vous éviter de tout re-coder "from scratch" 😅!L''on détaillera des features
+      standards du monde SQL trop peu connues et des features propres à PG qui en
+      font un moteur SQL passionnant 🔥Et pour terminer, l''on fera le tour des "distributions"
+      `PostgreSQL` disponibles, car dans ce domaine, il y a beaucoup de choix, pour
+      de l''on-prem ou dans le cloud ☁️ | Speaker :Kevin Davin'
+- Friday February  2:
+    Makalu:
+    - '12:10  | Titre :   Filouter au quotidien à l''aide de petits scripts | Tags
+      : French | Resumé :  On aime tous prendre des raccourcis. Eh oui, personne n''aime
+      passer des heures à faire une tâche rébarbative. Surtout quand on peut se contenter
+      d''appuyer sur entrée, et laisser la magie des scripts opérer.Et en tant que
+      développeur, on est loin d''être désarmé dans ce monde de plus en plus numérique.
+      Un concert complet ? Pas grave, un petit script et je serais le premier à racheter
+      les places revendues.Des heures de jeux laborieuses pour débloquer le dernier
+      achievement sur mon jeu préféré ? Une macro et hop, les mains dans les poches
+      !Des photos de vacances complètement en vrac ? Quelques consignes et voilà des
+      fichiers parfaitement renommés.Ensemble mettons à profit nos connaissances pour
+      se simplifier la vie en flirtant entre astuces et véritable triche.Au travers
+      d''une démonstration je vous montrerai mes premiers pas dans cet univers. L''objectif
+      ? Vous inspirer quelques idées… Et qui sait, ces petites astuces pourraient
+      vous servir aussi dans un contexte professionnel. | Speaker :Suzanne Favereau'
+- Friday February  2:
+    Makalu:
+    - '14:00  | Titre :   Mise en place et suivi de la sécurité grâce à l''instauration
+      de la conformité SOC2: SAST, DAST, Penetration Testing | Tags : French | Resumé
+      :  Les attaques de chaîne de production et les failles dans les dépendances
+      sont parmi les menaces les plus importantes dans les plates-formes Cloud, au
+      travers de la mise en place de la conformité SOC2 (Service Organization Control
+      2) voyons ensemble ce que j’ai pu mettre en place pour le suivi de la sécurité
+      sur un gros projet multi technologies.Tout d’abord la mise en place des différents
+      outils utilisés pour couvrir chaque catégorie de tests :- statique - SAST (Static
+      Application Security Testing) : analyse du code, des dépendances et des packages-
+      dynamique - DAST (Static Application Security Testing) : analyse automatique
+      de l’application en fonctionnement- tests d’intrusion - Penetration Testing
+      : analyse automatique et manuelle pour pénétrer dans une applicationUne fois
+      ce suivi mis en place et connecté à Jira, comment assurer ce suivi et répartir
+      le travail au sein des différentes équipes de développements et devops/cloudops.Enfin
+      comment cela permet satisfaire aux besoins de traçabilité, auditabilité, contrôle
+      des artefacts produits grâce aux apports et contraintes occasionnées afin que
+      vous ayez les éléments pour mettre en place ce qui est adapté à vos besoins.
+      | Speaker :Julien Demazière'
+- Friday February  2:
+    Makalu:
+    - '15:00  | Titre :   From Zero to Qwik: Building Your First App with Confidence
+      | Tags : French | Resumé :  Après la création d''Angular Js et Angular, Miško
+      Hevery décide de créer un troisième framework basé sur le concept de résumabilité.
+      Ce framework, appelé **QWIK** a pour objectif de nous permettre de coder des
+      applications Web à large contenu rendu par un serveur et de nous abstraire des
+      contraintes de performances.Avec une compléxité de O(1) au lieu de O(n) pour
+      les autres frameworks, Qwik nous assure de supprimer 99 % de javascript du main
+      thread.Alors qu''est ce que la résumabilité ? En quoi ce concept nous permet-il
+      de nous simplifier la vie et de supprimer autant de Javascript du main thread
+      ? Comment écrire votre application Qwik ?Ce talk a pour objectif de répondre
+      à toutes ces questions, mais également de vous permettre de concevoir vos premières
+      applications en toute sérénité et simplicité. | Speaker :Nicolas FRIZZARIN'
+- Friday February  2:
+    Makalu:
+    - '16:00  | Titre :   Apprends à dompter la Data sans douter de toi ! | Tags :
+      French | Resumé :  Illustration de la conférence : Présentation vidéo : https://www.youtube.com/watch?v=vQ5pa_EAh_MIl
+      y a deux ans, j’étais développeuse C++, et j’ai fait le choix d’entamer une
+      reconversion pour apprendre à dompter la Data et devenir Ingénieure Data.Pour
+      passer d’un univers à un autre, monter en compétence a été une étape, mais me
+      sentir légitime a été une épreuve.Comment passe-t-on du développement d''applications
+      3D à la gestion d''une pipeline de données Kafka ? D''un outil de génération
+      de cuisines automatiques pour Ikea à l''ingestion de milliers de données sous
+      Snowflake ?Qu''est-ce qui m''a fait sauter le pas pour sortir de ma zone de
+      confort ? Comment j’ai réussi à gérer mes doutes, à faire des choix cornéliens,
+      et à traverser les moments difficiles ?Dans ce retour d''expérience, je vais
+      d’abord partager avec vous mon parcours à travers les maths, la 3D et la Data.
+      Je vous parlerai des moyens utilisés pour me former à la Data, et de la place
+      essentielle de la cohésion d’équipe dans ma reconversion.Je vous donnerai ensuite
+      les astuces et les indispensables pour réussir à vous lancer dans une reconversion,
+      et vous découvrirez qu’un choix de parcours atypique pourra vous apporter beaucoup
+      plus que des compétences techniques (adaptation au changement, confiance en
+      soi ...).Nous verrons enfin comment améliorer l’intégration des profils en reconversion
+      et ainsi favoriser leur inclusion dans votre entreprise.Pour en savoir plus
+      : https://jvauchel.github.io/dompter-data-talk-2023/ | Speaker :Johanna Vauchel'
+- Friday February  2:
+    Mont Blanc: {}
+- Friday February  2:
+    Mont Blanc:
+    - '10:10  | Titre :   Le futur du web est sur la périphérie du réseau | Tags :
+      French | Resumé :  Le mot est apparu sur toutes les documentations ces derniers
+      mois : les cloud providers comme Vercel, Netlify ou AWS proposent leur version
+      des "Edge Functions", alors que les frameworks javascript comme Next, Nuxt ou
+      encore Astro mettent en avant leur support des "Edge API Routes" ou du "SSR
+      on the Edge". Mais qu''est-ce donc que tout cela ?À l''instar des CDNs pour
+      les fichiers statiques, ce nouveau paradigme consiste à exécuter le code serveur
+      au plus près des utilisateurs ("the Edge"). On peut ainsi obtenir du contenu
+      dynamique à la vitesse du statique, avec des usages comme le SSR, l''authentification
+      ou l’A/B Testing à la périphérie du réseau.Je vous propose de découvrir, chiffres
+      à l’appui, les performances que l’on peut atteindre sur certains cas d’utilisation,
+      et les situations dans lesquelles il n’est au contraire pas intéressant de l’utiliser.
+      Avec ça, plus d''excuses si votre site n’est pas “blazing fast”. | Speaker :Julien
+      Sulpis'
+- Friday February  2:
+    Mont Blanc:
+    - '11:10  | Titre :   Survivre dans la JS-jungle des outils de tests | Tags :
+      French | Resumé :  En pleine JS-jungle, Jasmine tente de se frayer un Chai-min
+      sous une atmosphère Sélénium. Son but : la fameuse pyramide de tests. Soudain,
+      plus un Jest, Sinon c''est le mauvais Karma ! Un Mocha venimeux lui barre la
+      route... Pourtant, pas question de faire demi-tour Cypress du but !Plongeons-nous
+      avec Jasmine dans cette JS-jungle afin de mieux comprendre cet environnement
+      hostile. Ces outils de tests, à quoi servent-ils donc tous ? Leur fonctionnement
+      est-il identique ? A-t-on besoin de tout ? Quelle stratégie adopter pour avoir
+      un ensemble cohérent et performant ? Comment écrire des tests de manière pertinente
+      ?Nous allons parler typologie d''outils, types de tests, stratégie de tests
+      ainsi que tests utiles et robustes. Nous découvrirons aussi que l''objectif
+      de la bonne vieille pyramide n''est peut être pas si idéale que cela... | Speaker
+      :Lise Quesnel'
+- Friday February  2:
+    Mont Blanc:
+    - '12:10  | Titre :   Automatisez l''installation de votre poste de travail !
+      | Tags : French | Resumé :  Quand l''on parle de notre $HOME sur Linux/MacOS,
+      nous avons tous nos préférences, que cela soit notre éditeur de texte (le débat
+      vim/emacs fait toujours rage), le prompt customisé, nos logiciels favoris...
+      Et nous y tenons !A nos clients, nous recommandons toujours de prévoir une sauvegarde.
+      Mais si demain votre poste de travail rend l''âme, combien de temps estimez-vous
+      qu''il vous faudra pour reconfigurer votre joli ZSH avec ses 50 plugins, votre
+      config vim aux petits oignons, votre configuration SSH avec la vingtaine d''hosts
+      configuré, retrouver le nom de tous ces outils qui vous sont cher, ou encore
+      tous ces alias fort utiles dont vous abusez au quotidien ?Embarquons pour une
+      découverte de quelques unes des façons de sauvegarder votre configuration et
+      voyons comment ansible peut vous aider ! | Speaker :Sylvain METAYER'
+- Friday February  2:
+    Mont Blanc:
+    - '14:00  | Titre :   Go Serverless! But is it secure? | Tags : English | Resumé
+      :  I am a big advocate of serverless products instead of "traditional" ones.
+      Cloud Run instead of GKE, Fargate instead of EKS, Pub/Sub instead of Kafka and
+      Aurora instead of RDS. You get lower costs, less infra to manage, no need to
+      worry about networking... But what about security? Can you really make sure
+      that your serverless workloads (or data) are safe? In this talk, we will go
+      through several serverless offerings in the areas of data & compute, and look
+      at their vulnerabilities and security options. We''ll cover topics like:- How
+      serverless architecture changes the attack surface- Vulnerabilities in serverless
+      platforms and services- Best practices for securing serverless workloadsBy the
+      end of this talk, you''ll be able to:- Understand the security risks of serverless
+      computing- Implement best practices for securing your serverless workloads-
+      Sleep soundly knowing that your serverless applications are secure | Speaker
+      :Natalie Godec'
+- Friday February  2:
+    Mont Blanc:
+    - '15:00  | Titre :   Tester du legacy grace à l''Approval testing | Tags : French
+      | Resumé :  L’approval testing permet de mettre en place des tests pour du code
+      sur lequel on n’a que très peu la main. Au travers de ce live-coding, guidés
+      par le code coverage et en utilisant quelques refactoring très simples, nous
+      verrons comment mettre en place un filet de sécurité qui nous permet d''envisager
+      la modification du système avec un peu plus de sérénité.Nous verrons comment
+      affronter certains challenges tels que la présence d''appels au système de gestion
+      du temps, la présence de données aléatoires, et comment nous assurer que nous
+      n''oublions pas certains comportements. | Speaker :Charles'
+- Friday February  2:
+    Mont Blanc:
+    - '16:00  | Titre :   Nos solutions sont elles des problèmes? Notre métier face
+      au dilemme de la poule et l''oeuf? | Tags : French | Resumé :  Notre métier
+      de développeur / concepteur / architecte consiste à construire des solutions
+      logicielles répondant à des problèmes posés. Mais le faisons nous correctement?
+      Nos solutions ne sont elles pas elle mêmes source de problèmes indésirables?
+      Ça vous parle ce logiciel immonde, d''une complexité abominable, et le nombre
+      de WTF que vous avez laissé échapper face à cette bouse infâme sensée résoudre
+      un problème « simple »? (Ne protestez pas vous l’avez fait… ou alors ce talk
+      ne s’adresse pas à vous)Notamment les technologies que nous choisissons (et
+      chérissons) pour construire nos solutions logicielles ont un impact qui peut
+      être négatif. Le « remède » est pire que le « mal »Lors de ce talk, je vous
+      propose d''avoir un regard critique et lucide (enfin j''espère) sur nos pratiques,
+      afin de prendre conscience des conséquences de nos choix, des risques que nous
+      prenons de manière inconsciente et des biais dont nous sommes victimes.Au travers
+      d’exemples qui pourront vous faire sourire (ou pas c’est fonction de votre vécu),
+      nous illustrerons le tableau pour nous convaincre que ce que nous racontons
+      n’est pas une légende… Base de données, frameworks, k8s, kafka, MDA, ORM, micro-services
+      et bien d’autres pourront prendre cher… ou pas: c''est selon la façon de les
+      utiliser.Malgré ce constat bien pessimiste, j''espère vous convaincre que ce
+      n''est pas une fatalité. Nous verrons que pouvons mettre en place de multiples
+      approches afin de ne pas tomber dans nos sombres travers ;-) | Speaker :Christophe
+      TARET'
+- Thursday February  1:
+    Auditorium: {}
+- Thursday February  1:
+    Auditorium:
+    - '09:00  | Titre :   Le mot de l''accueil | Tags : French | Resumé :résumé introuvable
+      | Speaker :Speaker Introuvable'
+- Thursday February  1:
+    Auditorium:
+    - '09:15  | Titre :   La compression Web : comment (re)prendre le contrôle ? |
+      Tags : French | Resumé :  Saviez-vous que toute la journée, nos serveurs compressent
+      nos réponses HTTP et que nos navigateurs les décompressent ? C''est un peu comme
+      si nous jouions au Scrabble en permanence. Vous ne voyez pas le rapport, après
+      notre conférence, ce serait normalement bien plus clair. Cette compression est
+      partout sur le Web, et pourtant ses subtilités nous échappent souvent. On compresse
+      des formats qui n''en ont pas besoin, on compresse à la volée des fichiers statiques,
+      on n''adopte pas les nouveaux algorithmes... Bref, on remplit les tuyaux d''internet
+      plus que nécessaire.Mais rassurez-vous, il y a de l''espoir ! Dans cette session,
+      nous allons (re)découvrir la compression pour le Web. Nous vous présenterons
+      les principaux algorithmes de compression comme gzip et brotli, ainsi que les
+      techniques sous-jacentes. Nous aborderons également la négociation de contenu
+      entre les serveurs et les navigateurs.Enfin, nous partagerons avec vous des
+      astuces pour éviter les mauvais coups : des exemples concrets, des mesures et
+      des stratégies pour améliorer les performances de votre site web. Car, oui,
+      optimiser la compression de vos données, c''est un peu comme jouer au Scrabble
+      de manière stratégique : vous maximisez vos points, devenez plus compétitif,
+      et évitez de vous retrouver avec un chevalet surchargé !" | Speaker :Antoine
+      Caron'
+- Thursday February  1:
+    Auditorium:
+    - '10:10  | Titre :   Votre propre kube as a service ? Une aventure dont vous
+      êtes le héros... | Tags : French | Resumé :  Maintenant que votre équipe utilise
+      GitOps avec succès, vous ne jurez plus que par kube et ArgoCD.Malheureusement,
+      chaque succès peut devenir un problème... La direction veut maintenant que la
+      voix du GitOps embrasse tous les projets. Vous êtes sommé d''héberger et de
+      gérer les futurs projets qui ne sauraient tarder à envahir vos clusters. Et
+      vous avez très peu de temps, la direction a déjà fait des annonces de planning
+      pour surfer sur la réussite de votre projet.Saurez-vous trouver des solutions
+      pour héberger les nouvelles applications, partager vos infrastructures tout
+      en vous protégeant de cette invasion ?Cette aventure sera interactive, soyez
+      prêt à assumer vos choix, vous apprendrez de vos erreurs comme de vos succès,
+      et peut être arriverez vous à proposer une solution d''hébergement multi-tenant.___*4ème
+      de couverture :Cette présentation est destinée aux aventuriers avec quelques
+      connaissances de k8s et se posant des questions sur l''isolation et le partage
+      de ressources avec kubernetes. Différents choix s''offriront à vous, prendrez-vous
+      les bonnes options ? Arriverons-nous à répondre aux attentes de la direction
+      dans les temps et sans mettre en péril notre première application ? | Speaker
+      :Louis Tournayre'
+- Thursday February  1:
+    Auditorium:
+    - '11:10  | Titre :   Code Case : les méthodes de la crim adaptées au code! |
+      Tags : Tag introuvable | Resumé :  Et si nous nous mettions à tracker nos pain-points
+      comme on track des criminels?Et si notre historique git recelait plus d''informations
+      sur notre architecture que nous ne le pensions?Et si toutes les traces qui y
+      sont laissées étaient autant d''indices exploitables au même titre qu''une empreinte
+      digitale ou une trace ADN?"Your code as a crime scene" est un livre de Adam
+      Tornhill qui propose de transposer des techniques d''investigations criminelles
+      reconnues dans le but de débusquer les problématiques de notre code.L''auteur
+      fournit en parallèle un ensemble d''outils qui prennent tout leur sens à la
+      lecture des méthodes évoquées.Retour d''expérience sur l''utilisation de quelques
+      unes de ces techniques sur un projet réel, ce qu''elles ont permis d''identifier,
+      de prendre comme action et les premiers bénéfices qui ont pu en ressortir. |
+      Speaker :Sylvain Coudert'
+- Thursday February  1:
+    Auditorium:
+    - '12:10  | Titre :   Picocli, mets du Java dans ton terminal ! | Tags : French
+      | Resumé :  Les CLI (Command Line Interface), tout le monde les utilise et elles
+      existent depuis la nuit des temps.Souvent synonyme de gain de productivité,
+      leur création est parfois obscure et peut sembler complexe.C''était le cas il
+      y a quelques décennies, mais depuis quelques années, des langages et Frameworks
+      permettent d''en écrire simplement dans votre langage préféré.Je vous propose
+      d''utiliser un langage qui ne paraît pas, au premier abord, le plus intuitif
+      pour faire une CLI : Java !Mais il sera bien accompagné dans cette tâche : grâce
+      à Picocli et Quarkus, notre CLI aura tout d''une grande, tout en étant simple
+      à développer !Et cerise sur le gâteau : nous créerons un "vrai" exécutable grâce
+      à Graal VM.Venez m''accompagner lors d''une session de live coding permettant
+      de mettre en lumière comment créer une CLI en Java avec Picocli et Quarkus en
+      partant de zéro ! | Speaker :Stéphane Philippart'
+- Thursday February  1:
+    Auditorium:
+    - '14:00  | Titre :   Au delà des architectures micro-services, découvrez les
+      architectures composables ! | Tags : French | Resumé :  Selon les derniers rapports
+      sur les technologies émergentes, les architectures composables sont pré-senties
+      comme étant “le futur des architectures logicielles”.Opposé à l’architecture
+      monolithique et repoussant les limites de l’architecture micro-service, le composable
+      prônant une forte modularité permet de gagner en agilité, en rapidité d’implémentation
+      tout en améliorant l’expérience utilisateur.Le composable consiste à construire
+      une architecture hybride avec un ensemble de briques réutilisables, que ce soit
+      des briques personnalisées développées avec du code ou du no-code, ou encore
+      des briques SaaS sur-étagère, sélectionnées parmi les meilleures du marché.Au
+      cours de ce talk, découvrez :- les fondations et principes du composable- les
+      véritables avantages mais également les compromis qui en résultent- comment
+      en tirer profit dès aujourd''hui sans reconstruire intégralement votre existant
+      ? | Speaker :Benjamin MARRON'
+- Thursday February  1:
+    Auditorium:
+    - '15:00  | Titre :   Le Prompt Engineering pour les nuls, où comment utiliser
+      plus efficacement la puissance des LLMs ! | Tags : French | Resumé :  Le Prompt
+      Engineering a été le buzz word de l’année 2023 ! Mais savez-vous vraiment ce
+      que l’anglicisme “prompter” signifie ? Le concept du Prompt Engineering consiste
+      à formuler des instructions spécifiques et claires pour guider le Large Language
+      Model (LLM) dans sa génération de réponses. Créer un prompt efficace c’est comme
+      poser la bonne question pour obtenir la bonne réponse souhaitéeCe talk met en
+      avant les techniques avancées et les meilleures pratiques à adopter dans le
+      domaine du prompt engineering en utilisant le LLM le plus populaire:ChatGPT.
+      RASCEF framework, Zero-shot prompting, few-shot prompting, chain-of-thought
+      ! nous simplifierons ces concepts pour proposer des techniques simples et efficaces.
+      Nous montrerons aussi les limites des LLMs et les risques “d''hallucinations”,
+      ces informations erronées ou inventées qui semblent être réelles mais qui ne
+      sont pas basées sur des faits ou une compréhension précise du sujet.Nous fournirons
+      des cas d’usage concrets utilisables quotidiennement en appliquant les techniques
+      proposées : générer et améliorer un email, obtenir un tutoriel pour une tâche
+      complexe, générer ou corriger du code, …Rejoignez-nous et vous ne repartirez
+      pas avec la réponse ''42'' ! ;-) | Speaker :Philippe Laumay'
+- Thursday February  1:
+    Auditorium:
+    - '16:00  | Titre :   CSS renaît de ses cendres: (re)devenez copains avec votre
+      feuille de style | Tags : French | Resumé :  On ne va pas se mentir: quand on
+      a commencé notre aventure dans le développement web il y a 15 ans, le CSS et
+      nous, ce n''était pas vraiment le grand amour. Malgré l''arrivée des variables
+      et des nouveaux systèmes de layouts, on n''était toujours pas convaincus, et
+      on ne l''utilisait que par obligation. En 2023, on a décidé de lui donner une
+      nouvelle chance: comme pour le JavaScript, les nouveautés de CSS ont considérablement
+      changé le langage ces dernières années, et on a été agréablement surpris.Dans
+      ce talk interactif et riche en démos, on abordera les standards existants et
+      ceux à venir qui nous on fait redécouvrir le CSS. Préparez-vous à explorer des
+      fonctionnalités cools telles que :is(), :has(), le nesting, les custom media
+      queries, les custom properties (bien plus puissantes qu''on ne le pense) et
+      bien d''autres innovations encore !Rejoignez-nous pour donnez une nouvelle chance
+      au CSS, qui pourrait bien devenir votre nouveau copain incontournable dans le
+      développement front-end ! | Speaker :Jean Arnaud'
+- Thursday February  1:
+    Hall des Sponsors: {}
+- Thursday February  1:
+    Hall des Sponsors:
+    - '08:00  | Titre :   Welcome | Tags : French | Resumé :résumé introuvable | Speaker
+      :Speaker Introuvable'
+- Thursday February  1:
+    Hall des Sponsors:
+    - '12:30  | Titre :   Lunch | Tags : French | Resumé :résumé introuvable | Speaker
+      :Speaker Introuvable'
+- Thursday February  1:
+    Hall des Sponsors:
+    - '16:50  | Titre :   Meet&Greet | Tags : French | Resumé :résumé introuvable
+      | Speaker :Speaker Introuvable'
+- Thursday February  1:
+    Kilimanjaro: {}
+- Thursday February  1:
+    Kilimanjaro:
+    - '10:10  | Titre :   ESI : le cache HTTP en petits bouts | Tags : French | Resumé
+      :  - "Arf, ma page est cachable pendant deux mois mais il faut que je mette
+      le nom de l''utilisateur. Bon je vais faire un chargement en AJAX."- "NON mon
+      cher ! Utilise les ESI et ARRÊTE de mettre du JS partout !"Généralement, quand
+      on utilise les reverses proxy caches pour mettre en cache des pages HTML, on
+      base la durée de conservation de la page complète par rapport à l’élément qui
+      change le plus régulièrement. Ce qui revient souvent à ne pas mettre en cache
+      le contenu alors qu''il n''y en a qu''une toute petite partie qui est réellement
+      dynamique.Les ESI, ou Edge Side Include, peuvent vous permettre de différencier
+      la durée des caches de chaque partie de votre page HTML, et ainsi améliorer
+      votre usage du cache et améliorer vos perfs sans faire appel à du javascript.
+      | Speaker :Yann Schepens'
+- Thursday February  1:
+    Kilimanjaro:
+    - '11:10  | Titre :   2 ans de migrations en environnement "cloud native" quand
+      on n''est ni une startup, ni dans le CAC40 | Tags : French | Resumé :  Depuis
+      un peu plus de 2 ans, nous intervenons principalement sur le déploiement d''applications
+      dites cloud native d''une ETI, sur3 domaines :-Gestion de la forge logicielle,
+      essentiellement composée de logiciels libres-Déploiement de clusters Kubernetes
+      sur du cloud public français, plus les composants "infrastructure" des clusters.-Mise
+      en place d''environnement de développement, CI/CD et accompagnement des équipes
+      de développement.Depuis 2 ans donc, pas mal de questions, réponses, évolutions,
+      adaptations pour faire en sorte que tout cela fonctionne au mieux : comment
+      s''assurer que la forge tourne correctement, évolue ; comment bien automatiser
+      les déploiements, que ce soit infrastructure ou applicatifs ; comment gérer
+      le "day-2" ;comment gérer les évolutions de la plateforme ?Nous vous proposons
+      un REX sur l''ensemble de ces sujets, avec un beaucoup de tech, un peu d''organisation
+      et un soupçon d''humour ! | Speaker :rverchere'
+- Thursday February  1:
+    Kilimanjaro:
+    - '12:10  | Titre :   De la couleurs dans nos Apps | Tags : French | Resumé :  Imaginez
+      un monde sans couleur. Un monde où nos applications seraient monotones, dépourvues
+      de vie et d''expression. La couleur joue un rôle essentiel dans notre expérience
+      numérique, captivant notre attention, influençant nos émotions et facilitant
+      notre interaction avec les applications. Cependant, cela n''a pas toujours été
+      vrai. Les débuts de l''informatique étaient plutôt fades, avec une prédominance
+      de niveaux de gris. Alors, est-il nécessaire d''utiliser la couleur ou non ?Mais
+      comment choisir les bonnes couleurs ? Comment utiliser la psychologie des couleurs
+      pour créer des associations et des émotions positives ? Et comment rendre votre
+      application plus colorée tout en restant accessible à tous, y compris aux personnes
+      atteintes de daltonisme ? Et faut-il proposer un “Dark Mode” ?Rejoignez-nous
+      lors de cette conférence sur la couleur dans nos applications, où l''esthétique,
+      la psychologie et l''accessibilité se rencontrent pour créer une expérience
+      utilisateur inoubliable. Ouvrez la porte à un monde vibrant de couleurs et de
+      possibilités infinies. Ne manquez pas cette occasion de révéler le pouvoir des
+      couleurs dans votre application. | Speaker :Emmanuel De Saint Steban'
+- Thursday February  1:
+    Kilimanjaro:
+    - '14:00  | Titre :   Partez au ski en toute sécurité | Tags : French | Resumé
+      :  Les sommets blanchissent, vous avez réservé votre séjour aux sports d''hiver
+      et vous vous apprêtez à prendre la route. Vous allez parcourir de nombreux ouvrages
+      dont des tunnels.En 1999, le tunnel du Mont Blanc s''embrasait et faisait 39
+      morts.Au delà de la catastrophe elle même, cela a entrainé de nombreux changements.Au
+      niveau européen, les normes en termes de ventilation, de gestion d''incendie
+      et de gestion du trafic ont évoluées. Une obligation de surveillance globale
+      des ouvrages et un examen de sécurité périodique ont été instaurées. En termes
+      d''infrastructures, cela a entrainé la création de nouvelles galeries de sécurité
+      ou l''installation de systèmes plus performants.En partant des équipements électriques
+      jusqu''au système d''aide à l''exploitation, je vous propose un tour d''horizon
+      des technologies mises en oeuvre dans un tunnel routier.De l''extracteur d''air
+      au capteur de pression sur une porte, chaque équipement doit pouvoir être supervisés
+      et pour certains, commandés.Pour cela, des progiciels existent et des automates
+      sont utilisés pour assurer la liaison entre ces logiciels et les équipements.
+      Un système d''aide à la supervision permet d''assurer la traçabilité des évènements
+      et des actions entreprises par le superviseur. Tout cela doit bien sûr répondre
+      à des exigences de disponibilité et de redondance.Venez découvrir l''architecture
+      que nous avons mise en place sur nos projets de rénovation de la supervision
+      des tunnels autoroutiers. On parlera Spring, Redis et JMS entre autres...Vous
+      n''emprunterez plus un tunnel de la même manière après ce talk. | Speaker :Loïc
+      Carbonne'
+- Thursday February  1:
+    Kilimanjaro:
+    - '15:00  | Titre :   Practical introduction to OpenTelemetry tracing | Tags :
+      English | Resumé :  Tracking a request’s flow across different components in
+      distributed systems is essential. With the rise of microservices, their importance
+      has risen to critical levels. Some proprietary tools for tracking have been
+      used already: Jaeger and Zipkin naturally come to mind.Observability is built
+      on three pillars: logging, metrics, and tracing. OpenTelemetry is a joint effort
+      to bring an open standard to them. Jaeger and Zipkin joined the effort so that
+      they are now OpenTelemetry compatible.In this talk, I’ll describe the above
+      in more detail and showcase a (simple) use case to demo how you could benefit
+      from OpenTelemetry in your distributed architecture. | Speaker :Nicolas Fränkel'
+- Thursday February  1:
+    Kilimanjaro:
+    - '16:00  | Titre :   Le duo gagnant : Antora et AsciiDoc pour une documentation
+      sans frustrations | Tags : French | Resumé :  Le contenu de votre documentation
+      est éparpillé à travers plusieurs systèmes, et l''assembler vous donne l''impression
+      de résoudre un casse-tête géant ?Vous vous sentez enlisé dans les extensions
+      du parser Markdown ou limité par un format ésotérique pour les sources de votre
+      documentation ?Si la réponse est“OUI, et je n’en peux plus !”, cette session
+      vous permettra de découvrir une solution efficace qui pourrait bien mettre fin
+      à ce cauchemar.Nous plongerons progressivement dans les concepts d''Antora en
+      vous montrant comment créer, en direct, un site de documentation technique.Vous
+      saurez ainsi pourquoi le duo AsciiDoc / Antora est une combinaison utilisée
+      pour générer la documentation des projets tels que Spring Security, Apache Cassandra
+      ou encore ForgeRock.Chez Bonitasoft, l''utilisation de ce duo est également
+      un succès.Venez profiter de notre expérience pour comprendre comment nous avons
+      pu nous recentrer à nouveau sur l''essentiel : le contenu technique et fonctionnel
+      de notre documentation.---------------------------------------------* Langue
+      : Français* Format : 45 min* Catégorie : Off-road (Hors piste)Il n''y a aucun
+      pré-requis technique pour assister à la présentation. La syntaxe AsciiDoc, la
+      configuration YAML et le fonctionnement d’Antora seront introduites tout au
+      long de la démonstration. | Speaker :Thomas Bouffard'
+- Thursday February  1:
+    Makalu: {}
+- Thursday February  1:
+    Makalu:
+    - '10:10  | Titre :   Chaos Engineering: REX d''un DevOps ambitieux | Tags : French
+      | Resumé :  **Format** : Talk - Retour d''expérience**Category** : DevOps##
+      Qui est l''audience ?Cette présentation s''adresse aux DevOps/Ops/Cloud engineer
+      et de manière générale aux adorateurs du Chaos. J''ai déjà pu tester cette présentaion
+      lors d''une réunion technique interne et auprès des éléves des 5A info de Polytech
+      GrenobleL''objectif est d''illustrer et démystifier le Chaos Engineering à travers
+      une approche ludique et participative. Je partagerai mon retour d''expérience
+      en tant qu''organisateur d''un "Chaos Play Day" et mes conseils pour faire ses
+      premiers pas dans un monde pas si chaotique.## De quoi allez-vous parler ?Je
+      commencerai avec une introduction sur la résilience et comment le chaos engineering
+      s''inscrit parfaitement dans ce paradigme. Je ferai une courte présentation
+      des fondamentaux du chaos pour enchaîner surmon retour d''expérience du "Chaos
+      Play Day" réalisé avec mon équipe. Enfin la deuxième partie est un exercice
+      ludique avec des balles en mousse pour toute l''audience permettant d''illustrer
+      le Chaos engineering. C''est très fun ! Voici une version globale de ce que
+      je présenterai :### Introduction : Une journée en enferNous suivrons la journée
+      de Bob, un ingénieur DevOps. Il a déployé tous ses services et outils à destination
+      des devs en mode microservice, en passant par des conteneurs.Cependant, en ce
+      lundi pluvieux, il passe une très mauvaise journée, car son infrastructure est
+      tombée et il a perdu énormément de choses... Nous verrons dans le reste de cette
+      présentation ce qu''il va mettre en place pour que cette situation ne se reproduise
+      plus.### Partie 1 : La résilience, un buzz word encore à la mode ?On entend
+      énormément ce mot, mais dans le monde du DevOps que''est-ce que ça veut dire
+      ? Je présenterai le rôle de SRE (Site Reliabilyt Engineer), quelle est sa valeur
+      ajoutée, quels sont les principes fondamentaux, comment mesurer la résilience
+      d''un système.Je présenterai quelques outils que nous utilisons dans mon équipe
+      dans une approche as code :- Infrastructure as Code- Configuration management-
+      Monitoring- CI/CD- Chaos Engineering### Partie 2 : Chaos Engineering - Introduction
+      et Retour d''expérience Enfin nous rentrons dans le vif du sujet, je donnerai
+      une définition du chaos engineering, en présentant les bienfaits d''essayer
+      de casser volontairement son infrastructure. Nous devons dire merci à Netflix
+      pour leurs travaux sur le sujet et leur armée de singes casseurs. Je présenterai
+      les fondamentaux du chaos, ainsi que les différents degrés de maturité à atteindre.
+      Il y en a 4 de définis:- 1er niveau: Recovery Drill test (Chaos Play Day)- 2e
+      niveau: Automated backups- 3eme niveau: Recovery Plan- 4eme niveau : Chaos EngineeringPour
+      mener à bien un exercice de chaos, il faut certains pré-requis, le plus important
+      étant de décider d''un état stable. Quel est le mode de fonctionnement dans
+      lequel je considère que mon système est stable ? Sans cet état je ne pourrais
+      pas savoir si les expérimentations de chaos font sortir le système de son état
+      stable. En conséquence Il y a plusieurs aires à monitorer pour savoir si notre
+      système est stable ou non avant de se lancer dans le chaos engineering : Performance,
+      Réseau, Sécurité, Logs ou encore le Coût !Une fois ces pré-requis présentés,
+      je partagerai mon retour d''expérience sur une des premières activités de chaos
+      engineering qui peut être mis en place dans une équipe : "Le Chaos Play Day"
+      Dans ce retour d''expérience, je ferai d''abord le focus sur la préparation
+      et La communication en amont avec les équipes sur cet évènement. Lors de la
+      préparation et en tant que "Game Master" du Chaos Play day. Il faut définir
+      puis tester les scénarii catastrophes qui seront lancés et leurs hypothèses.
+      Il faut définir aussi les actions/garde-fous pour rester maitre du chaos et
+      s''assurer que l''on est en mesure de retrouver un état stable en fin d''exercice
+      :D. Le Game master doit garder en tête lors de sa préparation que l''objectif
+      est d''identifier les zones sur lesquelles il faut encore travailler et la réactivité
+      de l''équipe dans l''analayse et la résolution. Evidemment, il faudra débriefer
+      de cet exercice en équipe et à tête reposée afin de constituer une liste d''apprentissages
+      et d''actions à mettre en place pour améliorer la résilience du système.###
+      Partie 3 :c''est l''heure de jouer ensemble!Pour illustrer et rendre cette présentation
+      au Snowcamp interactive et permettre au plus grand nombre de visualiser un scénario
+      de chaos, je vais utiliser des balles en mousse pour simuler des scénarii.Je
+      vais créer 3 groupes, un groupe utilisateur de la platforme Netflix, un autre
+      groupe représente le serveur Netflix et le dernier groupe sert à valider la
+      requête de l''utilisateur. Le fonctionnement normal est le suivant, l''utilisateur
+      a une balle, qui représente le chemin parcouru par l''information. Il envoie
+      la balle au serveur netflix, qui lui l''envoie au service de vérification qui
+      lui la renvoie au serveur qui lui-même la renvoie à l''utilisateur. Ceci est
+      notre état stable. Chaque utilisateur récupère sa balle et peut voir le film
+      ou la série qu''il avait choisi.Ensuite le principe est simple, on demande à
+      l''audience des suggestions de scénario catastrophe que l''on peut simuler avec
+      les balles. Par exemple:- Que se passe-t-il si on augmene considérablement le
+      nombre de requêtes ? - Si on divise l''audience en différentes régions et que
+      les serveurs d''une région ne fonctionnent plus ?- Que se passe-t-il s''il n''y
+      a plus qu''un seul service de validation ? Ou S''ils disparaissent tous ?Avant
+      de simuler chaque scénario il faudra établir une hypothèse, notre système sortira-t-il
+      de son état stable ? Et ainsi à la suite de la simulation nous pourrons valider
+      ou invalider chaque hypothèse, et dans les cas où le système sort de son état
+      stable discuter avec l''audience pour savoir ce que l''on pourrait mettre en
+      place à l''avenir pour que le système reste dans son état stable face à ce scénario.###
+      Partie 4: Conclusion : Conseils et QuizzJe conclurai cette présentation en racontant
+      du point de vue organisateur et de celui des "réparateurs" comment ce Play Day
+      s''est déroulé pour nous. Sur la difficulté de réussir à piéger ses collègues
+      ou de ne pas les guider lorsqu''ils font fausse route sur les causes ou les
+      conséquences d''un scénario. Je raconterai quelques anecdotes rencontrées en
+      direct, car bien que maitrisé, on peut toujours être surpris par un problème
+      non prévu. Pour l''équipe de réparateurs c''était un excellent moment pour partager
+      des méthodes de debug et d''investigation de problèmes, ça leur a permis de
+      stimuler leur crétivité pour anticiper et bloquer certains scénarios. Un très
+      bon moment d''échange et de collaboration dans un mode survie.Pour conclure
+      cette présentation il y a également un petit quizz à la fin, qui permet de passer
+      en revue les points les plus importants et de finir sur un jeu.### Ouverture,
+      Questions & RéponsesOuverture : Ce retour d''expérience est ici pour raconter
+      les premiers pas d''une équipe DevOps dans le monde du Chaos engineering, il
+      reste beaucoup de travail avant d''atteindre le dernier niveau de maturité.Question
+      & Réponses : Répondre aux objections éventuelles et autres questions ouvertes.##
+      Comment aller vous en parler ?La présentation sera divisée en deux parties une
+      première assez classique avec des slides et seconde interactive et ludique avec
+      l''audience pour illustrer le chaos.1. Slides épurés et imagés pour se concentrer
+      sur les explications de l''orateur.2. La partie jeu avec l''audience est assez
+      appréciée pour avoir été testé sur une classe d''ingénieurs de 5e année à Polytech3.
+      Pas de live coding prévu : la première partie doit rester simple et rapide pour
+      avoir suffisament de temps dans l''intéractivité.4. Un petit quizz pour conclure
+      sur une interaction et permettre de passer en revue les points clés du talk
+      | Speaker :Gaetan Belliere'
+- Thursday February  1:
+    Makalu:
+    - '11:10  | Titre :   Du Flop au Top : Comment améliorer vos POC ? | Tags : French
+      | Resumé :  Vous aussi vous avez l’impression que les POC que vous développez
+      ne servent à rien ? Qui n’a jamais connu les fameux “POC en prod” ? Dans ce
+      talk je partagerais mon expérience en tant que développeuse au sein d’une équipe
+      de data scientistes qui ne fourni (pas) que des POC dans l’objectif de transformer
+      le manufacturing. J’étayerai avec des cas concrets de computer vision, d’optimisation
+      ou encore de maitrise procédé.Vous devez être efficace. On vous donne carte
+      blanche ! Quelle aubaine, ou peut-être pas…Ce REX sera illustré par des cas
+      concrets autour du Cloud Azure, l’utilisation de Gitlab et des technologies
+      .Net et Python. | Speaker :Johanna Millet'
+- Thursday February  1:
+    Makalu:
+    - '12:10  | Titre :   Bootez votre carrière : senior engineer ou manager ? | Tags
+      : French | Resumé :  Où vous voyez-vous dans 5 ans ?La question trop banale
+      ou intimidante que j’espère démystifier pendant ce talk.Un partage d''experience,
+      avec ce que j''ai appris au cours des années et (surtout) depuis que j''ai changé
+      pour un track de manager d’équipe (Dev lead) : relations avec le manager et
+      les peers, syndrome de l''imposteur, performance reviews, mentoring et coaching,
+      recrutement, etc. Et bien sur quelques conseils pratiques de comment évoluer
+      dans le track technique, mais aussi si on souhaite se lancer sur un track management,
+      surtout en tant que femme (il faut augmenter les pourcentages !)... et comment
+      bien vivre ces évolutions  | Speaker :Luiza Cicone'
+- Thursday February  1:
+    Makalu:
+    - '14:00  | Titre :   📝 ✅ La checklist ultime pour rendre vos applications cloud
+      native ! | Tags : French | Resumé :  Aujourd’hui, le cloud permet d’améliorer
+      la disponibilité et l’évolutivité de nos applications. Grâce au cloud, nous
+      pouvons provisionner de nouvelles infrastructures rapidement et faire évoluer
+      avec la même vitesse les infrastructures existantes. Nous ne présentons plus
+      les avantages du Cloud ni la multitude de services cloud existants. De prime
+      abord, migrer une application sur le Cloud peut sembler un sujet trivial. Mais,
+      toutes les applications sont-elles faites pour être déployées sur le Cloud ?
+      D''où viennent tous ces projets de migration ratés alors ?Durant ce talk, je
+      vous présenterai la checklist qui vous permettra de rendre vos applications
+      véritablement "cloud native" pour tirer le meilleur de ce modèle. | Speaker
+      :Katia HIMEUR'
+- Thursday February  1:
+    Makalu:
+    - '15:00  | Titre :   OAuth2, OpenID: le SSO en live-coding et sans framework
+      | Tags : French | Resumé :  OpenID et OAuth2 sont les protocoles d''authentication
+      et d''authorization web les plus répandus. Ce sont des protocoles compliqués,
+      difficile à appréhender pour les novices, avec plein de concepts qui se mélangent.
+      Souvent expliqué, rarement compris, il se base pourtant sur quelques primitives
+      simples à mettre en oeuvre.Dans cette présentation, plutôt que de tenter d''expliquer
+      tous les détails avec des diagrammes à 15 étapes, nous allons coder, étape par
+      étape, un flow d''authentification. Nous utiliserons un langage répandu (Python,
+      Java ou Javascript), sans se baser sur des librairies. Vous verrez se dérouler
+      les différentes étapes d''un flow d''authentification, et vous serez mieux équipés
+      pour comprendre ce que font les libs que vous utilisez au quotidien. | Speaker
+      :Daniel Garnier-Moiroux'
+- Thursday February  1:
+    Makalu:
+    - '16:00  | Titre :   Une alternative libre à Docker: Podman | Tags : French |
+      Resumé :  Le modèle de license de logiciel de Docker peut freiner son adoption
+      dans les entreprises. Connaissez vous Podman, une alternative libre à Docker
+      ? Podman implémente l''API REST de docker donc on peut facilement remplacer
+      docker par podman tout en gardant ses outils existants.Podman fonctionne en
+      mode rootless ou sans démon, et intègre une gestion complète des conteneurs
+      comme la fabrication ou le lancement d''images/conteneurs OCI et même le support
+      de WebAssembly/WASM.Un des avantage est la gestion native de certains objets
+      Kubernetes comme les pods (un ensemble de conteneurs)Nous verrons comment utiliser
+      Podman Desktop pour le lancement et la gestion des conteneurs et tout l''ecosysytème
+      de composants/applications gravitant autour de Podman. Nous montrerons aussi
+      le support de WebAssembly dans Podman Desktop.Et enfin nous montrerons que si
+      l''on souhaite passer à Kubernetes la transition est facilité grâce au support
+      dans l''outil. | Speaker :Florent BENOIT'
+- Thursday February  1:
+    Mont Blanc: {}
+- Thursday February  1:
+    Mont Blanc:
+    - '10:10  | Titre :   Quarkus : Greener, Better, Faster, stronger. | Tags : French
+      | Resumé :  Quarkus n''est maintenant plus un nouveau venu dans l''écosystème
+      java, et de plus en plus de projets l''adoptent comme base de travail,mais peu
+      de développeurs comprennent vraiment à quel point la magie se cache dans ses
+      extensions.C''est en développant l''extension [Quarkus Min.io](https://github.com/quarkiverse/quarkus-minio)
+      que j''aidécouvert une partie de leurs capacités,et comment elles sont en fait
+      au coeur des promesses du framework. Leur développement est simple et permet
+      de rendre un grand nombre de services à nos utilisateurs. Mais surtout elles
+      permettent de ne rendre que les services dont l''utilisateur à besoin nous permettant
+      d''économiser mémoire, cpu et de raccourcir les temps de démarrage.Et si vous
+      veniez en développer une avec moi et que nous mettions en oeuvre quelques uns
+      de ces tours de magie ?Vous pourriez peut être aussi aimer ça et repartir avec
+      quelques idées ! | Speaker :Jérôme Tama'
+- Thursday February  1:
+    Mont Blanc:
+    - '11:10  | Titre :   10 tests simples pour améliorer l''accessibilité de votre
+      site | Tags : French | Resumé :  Derrière ce titre « clickbait » se cache une
+      vraie méthode basée sur une checklist du W3C.Elle permet de tester soit même
+      l’accessibilité d’un site en **10 tests simple, même sans avoir un profil technique**.Cette
+      méthode ne remplace pas un « vrais » audit de site, mais elle va permettre de
+      **donner une idée générale de l’accessibilité d''un site**.Ces tests couvrent
+      une bonne partie des problèmes bloquants d’accessibilité. Les passer avec succès
+      est une **base essentielle pour rendre accessible un site**.Ils sont rapides
+      et faciles à faire, **tous les intervenants d’un projet peuvent les réaliser**
+      : Clients, PO, CP, Dev, UX/UI Designers… L’objectif de cette conférence est
+      de présenter ces 10 tests et de **les pratiquer en « live »** pour que vous
+      puissiez **les mettre en places sur vos projets ou votre site**. | Speaker :François-Xavier
+      Lair'
+- Thursday February  1:
+    Mont Blanc:
+    - '12:10  | Titre :   L’Art Génératif Dévoilé : Plongez dans l’univers créatif
+      de l’IA | Tags : French | Resumé :  Nous sommes en train de vivre une nouvelle
+      révolution, nous sommes entrés dans “l''ère de l’IA générative”. Êtes-vous prêt
+      à embarquer pour un court voyage à travers les concepts des algorithmes génératifs
+      et les dessous de la création artistique de ces modèles ? Si oui, cette conférence
+      est faite pour vous ! Amateurs d’IA et curieux de comprendre pourquoi ces algorithmes
+      fonctionnent aussi bien. Venez découvrir les concepts fondamentaux qui sous-tendent
+      cette discipline, comprenez comment l''Art Générative donne vie à des œuvres
+      d''art (images), et touchez du doigt les questions cruciales pour notre société
+      en pleine évolution. Details / Pitch : 🌟 Ce que vous allez découvrir : L''Histoire
+      brève de L’IA Generative : Remontez le temps pour découvrir comment l''Art Génératif
+      a évolué, des premiers algorithmes aux chefs-d''œuvre modernes. Le Processus
+      Créatif : Plongez dans les coulisses de la création artistique d’images par
+      l''IA et apprenez comment naissent des œuvres d''art uniques, en utilisant les
+      bons outils. La Théorie Éclairée : Démystifiez les concepts complexes derrière
+      l''IA générative notamment celle de la création d''images à partir de texte.
+      💡 Pourquoi cette conférence est-elle incontournable ? Que vous soyez un passionné
+      d''art ou un curieux de la technologie et de l''IA, cette session vous éclairera
+      sur un sujet qui est en train de changer notre monde créatif et notre avenir.
+      Vous découvrirez comment l''IA Générative aide nos artistes à repousser les
+      limites de l''imagination et de la créativité. Préparez-vous à être inspiré
+      et à repartir avec une compréhension de l''IA Générative. Cette conférence est
+      une passerelle vers un monde où la technologie et l''art se rencontrent pour
+      créer quelque chose d’unique. Laissez votre créativité s''épanouir et rejoignez-nous
+      pour une conférence exceptionnelle qui redéfinit votre perception de l''art
+      et de la technologie. 🌌 | Speaker :Lea Naccache'
+- Thursday February  1:
+    Mont Blanc:
+    - '14:00  | Titre :   Devenez des orfèvres de la CI | Tags : French | Resumé :  Comment
+      accélérer sa CI/CD ? Il y a deux ans, nous vous aurions proposé de mettre beaucoup
+      de cache et de paralléliser au maximum. Puis nous avons pu analyser une vingtaine
+      de CI différentes et nous nous sommes rendus compte qu’il n’y avait pas de recette
+      miracle, mais un équilibre à trouver. A travers 8 exemples de CI/CD, nous vous
+      transmettrons les apprentissages et les nuances que nous avons tirés pour faire
+      une pipeline plus rapide : comment doser l’usage du cache, choisir avec soin
+      les checks à effectuer et leur ordre ou encore comment bien utiliser Docker
+      dans votre pipeline. A la fin de ce talk, nous vous partagerons notre modèle
+      mental d’une bonne CI/CD pour vous permettre d’améliorer vos propres pipelines
+      ! | Speaker :Léo Anesi'
+- Thursday February  1:
+    Mont Blanc:
+    - '15:00  | Titre :   STOP à l’espionnage ! Comment disparaître d’internet ? 🕵🏼‍♂️
+      | Tags : French | Resumé :  Vous en avez marre de vous sentir traqué sur Internet
+      ? 😒 Nous aussi ! Mais est-il réellement possible de nos jours de devenir un
+      véritable ninja digital ? 🥷🏻 Et si pour protéger votre vie privée en ligne,
+      il fallait tout d’abord comprendre qui a accès à vos données et ce qu’ils peuvent
+      faire avec ?Nous allons vous apprendre comment être un vrai pro de la confidentialité
+      et de la sécurité des données, mais surtout comment devenir anonyme en ligne
+      et éviter les curieux… 👀 Sortez vos loupes et suivez-nous dans cette enquête
+      pour reprendre le contrôle de votre vie numérique !Et si vous êtes chanceux,
+      nous vous dévoilerons peut-être quelques secrets de ninja pour échapper aux
+      espions ! Venez nous rejoindre et apprenez comment devenir le maître du camouflage
+      numérique ! 😶‍🌫️ | Speaker :Etienne IDOUX'
+- Thursday February  1:
+    Mont Blanc:
+    - '16:00  | Titre :   Web dans le cloud, piloter ses décisions par les coûts |
+      Tags : French | Resumé :  Le Cloud, tout le monde en parle, mais maîtrisez-vous
+      vraiment ses coûts cachés ? Les alternatives structurelles que celà peut impliquer
+      ?Après une introduction au cloud, dont les exemples seront issus d''AWS et un
+      parallèle avec les architectures traditionnelles, nous verrons que les orientations
+      techniques et architecturales peuvent avoir un impact financier plus ou moins
+      fort.Pendant cette présentation, nous étudierons plusieurs cas concrets d''architectures
+      web, d''app, d''api et nous remettrons en cause les choix qui nous paraissent
+      pourtant naturels, pour les relier à une réalité financière imposée par le cloud,
+      sans forcément y perdre et avec un peu d''astuce.Nous déconstruirons ensemble
+      des schémas types, en constaterons, étape par étape, les gains parfois conséquents,
+      puis remettrons en question nos choix en fonction de ces constats.Vous sortirez
+      avec une autre vision du cloud,économique et pragmatique, et ne ferez plusvos
+      choix de la même manière. | Speaker :Matthieu Werner'
+- Wednesday January 31:
+    Everest: {}
+- Wednesday January 31:
+    Everest:
+    - '09:30  | Titre :   Venez construire un monolithe spring modulaire! | Tags :
+      French | Resumé :  Vous avez besoin de construire un monolithe modulaire et
+      de vous assurer qu’au bout de plusieurs années la modularité soit encore en
+      place?Avec de la programmation événementielle?Pour lequel la sortie d’une brique
+      en micro service ne soit pas un calvaire? Venez essayer Spring Modulith, dernier
+      né de la galaxie spring, qui va nous apporter les outils nécessaire à la construction
+      d’un monolithe en programmation événementielle. Outre la programmation, nous
+      aborderons la production de documentation logicielle ainsi que la partie observabilité
+      de notre monolithe, plus particulièrement la gestion des traces au travers des
+      différents modules.Merci de dérouler les prérequis ici: https://github.com/antechrestos/snowcamp-springmodulith
+      | Speaker :Vincent Bostoen'
+- Wednesday January 31:
+    Everest:
+    - '14:00  | Titre :   Docker Compose, zero to hero | Tags : French | Resumé :  Vous
+      avez déjà entendu parlé de Docker Compose ? Peut être l''utilisez vous déjà
+      un peu ? Nous vous proposons de découvrir toutes les facettes de cet outil en
+      construisant une application ensemble, de manière itérative et en 100% live
+      coding.Depuis un exemple simple, nous aborderons toutes les astuces pour être
+      un développeur efficace: services multiples, gestion des volumes et du réseau,
+      build avancé avec des ressources protégées par ssh, multi-plateformes... | Speaker
+      :Guillaume Lours'
+- Wednesday January 31:
+    Hall des Sponsors: {}
+- Wednesday January 31:
+    Hall des Sponsors:
+    - '12:30  | Titre :   Lunch | Tags : French | Resumé :résumé introuvable | Speaker
+      :Speaker Introuvable'
+- Wednesday January 31:
+    Kilimanjaro: {}
+- Wednesday January 31:
+    Kilimanjaro:
+    - '09:00  | Titre :   Welcome | Tags : French | Resumé :résumé introuvable | Speaker
+      :Speaker Introuvable'
+- Wednesday January 31:
+    Mont Blanc 1: {}
+- Wednesday January 31:
+    Mont Blanc 1:
+    - '09:30  | Titre :   Voyage au coeur d''Appwrite : le backend open-source qui
+      challenge Firebase 🧳 | Tags : French | Resumé :  Bienvenue à bord du grand voyage,
+      destination : l''univers du backend open-source ! Êtes vous prêts pour cette
+      aventure au cœur d''Appwrite, la solution qui défie le géant déjà bien connu
+      Firebase ? 🛫Au cours de cette aventure, vous découvrirez les fondamentaux d''Appwrite,
+      de la mise en place de l''environnement à l''exploration de fonctionnalités
+      plus avancées. Nous parcourrons ensemble les différents services de base qui
+      font d''Appwrite l''outil indispensable pour tout développeur à la recherche
+      d''un backend facile à utiliser et performant 🚀Prenez votre courage à deux mains
+      et embarquez avec nous pour une expérience inoubliable au cœur de l''écosystème
+      Appwrite ! 👨🏼‍✈️ | Speaker :Lucas Audart'
+- Wednesday January 31:
+    Mont Blanc 1:
+    - '14:00  | Titre :   Venez créer un instagram-clone en full-stack en 3 heures!
+      | Tags : French | Resumé :  Dans ce workshop, nous verrons comment créer et
+      déployer un Instamgram-like en 3 heures grâce à Amplify.Nous verrons comment
+      gérnérer les composants React à partir de designs Figma. Puis, comment designer
+      et ajouter simplmement une base de données accessible grâce à GraphQL, de l''authentification,
+      du storage pour uploader et stocker en ligne et déployer tout ça dans le cloud
+      🚀 | Speaker :Jean Arnaud'
+- Wednesday January 31:
+    Mont Blanc 2: {}
+- Wednesday January 31:
+    Mont Blanc 2:
+    - '09:30  | Titre :   🍳 Recette pour des environnements aux petits oignons pour
+      ton déploiement continu 🚀 | Tags : French | Resumé :  On a tous besoin de déployer
+      des environnements de dev, de test à la demande avec les contraintes que cela
+      comporte (automatisation des mises à jour, sécurité, accès pour les utilisateurs,
+      optimisation des coûts...)Dans ce workshop, nous proposons aux étudiants de
+      mettre en place un environnement sur un cluster Kubernetes et comment on peut
+      s''outiller pour que tout cela devienne beaucoup plus simple.Pour réussir notre
+      recette, nous partons d''un cluster Kubernetes tout frais, auquel nous ajouterons
+      les ingrédients nécessaires pour avoir un environnement prêt à déguster :- une
+      farandole d''URLs pour simplifier l''accès aux environnements à des développeurs,
+      testeurs ...- un bouquet de certificats pour sécuriser tout cela- un filet de
+      GitOps pour piloter les installations & les mises à jour- une pointe de green
+      pour éteindre automatiquement vos environnements pendant les périodes creuses-
+      un soupçon de sécurité pour contrôler son clusterLe tout mariné par GitLab avec
+      la gestion ses fonctionnalités de gestion des environnements.Parmi les ingrédients,
+      on retrouvera : external-dns, cert-manager, Flux, kube-downscaler, kyverno et
+      d''autres petits outils qui améliorent le quotidienCe workshop est un régal
+      pour construire votre toolkit pour s''avourer la mise en place de vos environnements.A
+      vos tabliers ! 👩‍🍳 👨🏻‍🍳  | Speaker :Thomas Jouve'
+- Wednesday January 31:
+    Mont Blanc 2:
+    - '14:00  | Titre :   Créer des plugins en Rust, TinyGo, ... pour vos applications
+      Go avec WebAssembly et Wazero et Extism | Tags : Tag introuvable | Resumé :  WebAssembly
+      (ou Wasm, son petit nom) était initialement prévu pour s''exécuter dans le navigateur.
+      Grâce à ses qualités (polyglotte, efficacité, rapidité, ...) , très vite il
+      est apparu indispensable de pouvoir exécuter des programmes Wasm en dehors du
+      navigateur (ce qui est maintenant possible avec la spécification Wasi).L''objectif
+      de ce hands-on est de vous faire développer une application en Go (un serveur
+      web), capable d''exécuter des plugins développés (par vous) avec des langages
+      différents et compilé en Wasm.1ère partie: ce sera théorique- Wasm, Wasi, qu''est-ce
+      que c''est ?- Les possibilités et les limites (et comment contourner ces limites)-
+      Les outils existants- Présentation de Wazero (un runtime Wasm sans dépendance)-
+      Présentation d''Extism (un framework pour réaliser des applications et des plugins)2ème
+      partie: écrire des plugins Wasm avec Extism pour la CLI Extism- 2ème plugin
+      en Go- 1er plugin en Rust- Écrire votre propre "lanceur" de plugin en Go3ème
+      partie: écrire un serveur d''application (http) avec le SDK Extism qui va appeler/exécuter
+      les plugins Wasm de la 2ème partie- un 1er serveur http qui va fonctionner (mais
+      pas toujours)- un 2ème serveur http qui va fonctionner (tout le temps)- un 3ème
+      serveur http qui va encore mieux fonctionnerEt pour finir nous verrons comment
+      dockeriser tout ça pour le déployer facilement avec la plus petite image possiblePS:
+      Pré-requis (**avant de venir**), vous devrez avoir un compte Docker et un compte
+      Gitpod (https://www.gitpod.io/) qui est un VSCode dans le cloud (il existe un
+      plan free). Si pour x raisons vous ne souhaitez pas utiliser Gitpod et utiliser
+      vos propres outils, c''est tout à fait possible, mais vous devrez avoir un environnement
+      fonctionnel dès le début du workshop, et nous ne pourrons pas vous aider si
+      votre environnement ne fonctionne pas) | Speaker :Philippe Charrière'
+- Wednesday January 31:
+    Mont Blanc 3: {}
+- Wednesday January 31:
+    Mont Blanc 3:
+    - '09:30  | Titre :   La sécurité, par où commencer ? Install party 🎉 | Tags :
+      French | Resumé :  Venez avec votre PC/Linux/MAC, vous connaissez probablement
+      les Linux [Install Parties](https://fr.wikipedia.org/wiki/Install_party) ? Alors,
+      faisons de même avec la Sécurité, nous allons suivre l''approche [DevSecOps](https://davidaparicio.gitlab.io/website/files/devsecops_software_lifecycle.jpg)
+      du [ministère américain de la défense](https://public.cyber.mil/devsecops/).
+      Pour cela, rien de plus simple, venez avec votre ordinateur, votre projet opensource
+      et vos outils (IDE, CI/CD). Après quelques slides de présentation, nous évolurons
+      étape par étape dans la sécurisation de votre application. Si votre application
+      est dockerisée, nous évonquerons les [bonnes pratiques de l''ANSSI](https://www.ssi.gouv.fr/guide/recommandations-de-securite-relatives-au-deploiement-de-conteneurs-docker/)
+      sur ce sujet. Nous verrons ainsi, à travers cet atelier, comment le GitOps/CI/CD
+      permettent à nous et aux organisations d''améliorer notre posture face à la
+      sécurité.On présentera les actions effectuées ce [code en Go](https://github.com/davidaparicio/namecheck)
+      et si un participant n''a pas de projet phare, ni de code opensource, on pourra
+      partir de ce projet (sans les workflows)Pré-requis : connaissances élementaires
+      sur l''OS, le code, les pipelines de CI/CD | Speaker :David Aparicio'
+- Wednesday January 31:
+    Mont Blanc 3:
+    - '14:00  | Titre :   Exploiting AWS Misconfigurations: A Capture the Flag Workshop
+      | Tags : French | Resumé :  Are you ready to become a hacker and try to exploit
+      vulnerabilities in the Cloud?Then join us for our exciting Capture the Flag
+      workshop where you’ll learn about the dangers of AWS environments configurations
+      pitfalls and how to exploit them.This workshop will cover the following topics:
+      S3, EC2 instance, Lambda code injection, IAM privesc, Policy rollback, ...By
+      the end of this workshop, you will have a better understanding of the potential
+      misconfigurations impact on your own AWS infrastructures and the steps you can
+      take to secure them.## PrerequisiteAs we cannot cover for the expense of multiple
+      AWS environments, this workshop requires you to have a working AWS account with
+      admin privileges and have Terraform installed on your laptop.We will provide
+      you a Terraform script to deploy a vulnerable by design AWS environment, but
+      fear not, it will only be accessible by your IP, and will be destroyed at the
+      end of the workshop. | Speaker :Ben'
+- Wednesday January 31:
+    Mont Blanc 4: {}
+- Wednesday January 31:
+    Mont Blanc 4:
+    - '09:30  | Titre :   Comprendre l''IA: construisez votre propre ChatGPT sécurisé
+      avec Node.js et LangChain | Tags : French | Resumé :  Les technologies d''IA,
+      et particulièrement les grand modèles de langages (LLM) poussent un peu partout
+      comme des champignons ces derniers temps. Comment ces modèles fonctionnent-ils,
+      et comment s''en servir dans vos applications?Dans ce workshop, nous allons
+      construire de zéro un chatbot basé sur GPT-4 et implémentant le pattern **Retrieval
+      Augmented Generation** (RAG). En utilisant une base de documents de référence,
+      le modèle sera capable de répondre à des questions en langage naturel, et de
+      générer des réponses complètes et sourcées dans vos documents. Pour cela, nous
+      allons créer un service Node.js qui s''appuiera sur le framework open-source
+      LangChain, ainsi qu''un site web pour tester notre chatbot. Enfin, nous déploierons
+      le tout sur Azure avec un pipeline CI/CD.**Au programme**:- Introduction aux
+      modèles de langage: fonctionnement et limites- Création d''une base de connaissances:
+      embeddings, BDD vectorielle et recherche par similarité- Utilisation de [LangChain](https://js.langchain.com/)
+      pour implémenter le pattern RAG (Retrieval Augmented Generation)- Introduction
+      au *prompt engineering* pour améliorer les performances- Création d''une API
+      Node.js pour interagir avec le modèle- Création d''un site web pour tester le
+      chatbot- Déploiement de l''API dockerisée et du site web sur Azure avec un pipeline
+      CI/CDA l''issue du workshop, vous aurez une compréhension plus claire des grands
+      modèles de langage et de leur fonctionnement, ainsi que des idées pour les utiliser
+      dans vos applications. Vous saurez également comment créer une base de connaissances
+      et un chatbot fonctionnels, et comment les déployer dans le cloud. | Speaker
+      :Yohan Lasorsa'
+- Wednesday January 31:
+    Mont Blanc 4:
+    - '14:00  | Titre :   Viens dompter ta première IA en Python | Tags : French |
+      Resumé :  L''IA est partout, du moins tout le monde revendique d''avoir de l''IA
+      dans ses applications, ses objets connectés, ...En parler c''est bien, la développer
+      c''est encore mieux.Après une introduction aux concepts qui gravitent autour
+      de l''IA mais aussi à l''écosystème Python nous vous proposons de customiser
+      le modèle YOLO afin d''optimiser sa détection d''objets dans des images.Pas
+      besoin d''être experte ou expert Python, ni Data Scientist ou Machine Learning
+      engineer, l''objectif ici est de découvrir tranquillement toutes ces notions.Et
+      cerise sur le gâteau, venez juste avec votre navigateur, on se charge du reste
+      grâce à GitPod.Vous découvrirez la magie d''un IDE dans le cloud.Arrivés en
+      débutantes, débutants ou justes curieuses et curieux, vous repartirez en sachant
+      customiser de A à Z un modèle d''IA et créer son application l''utilisant. |
+      Speaker :Thierry Chantier'
